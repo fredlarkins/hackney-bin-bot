@@ -1,0 +1,2978 @@
+{
+    "page": 1,
+    "pageSize": 100,
+    "results": [
+        {
+            "itemId": "5f898d4790478c0067f870ad",
+            "designCode": "designs_nlpgPremises",
+            "collection": "Live",
+            "start": "9999-12-31T23:59:59.999Z",
+            "end": "9999-12-31T23:59:59.999Z",
+            "icon": "icon-resource-house",
+            "colour": "#4aa36b",
+            "locked": false,
+            "context": "Customer",
+            "attributes": [
+                {
+                    "attributeCode": "attributes_premisesPrimaryText",
+                    "value": "BUS SHELTER 0112 TO 0016 OUTSIDE 157A"
+                },
+                {
+                    "attributeCode": "attributes_itemsSubtitle",
+                    "value": "E8 3RH"
+                },
+                {
+                    "attributeCode": "attributes_itemsTitle",
+                    "value": "         BUS SHELTER 0112 TO 0016 OUTSIDE 157A  MARE STREET"
+                },
+                {
+                    "attributeCode": "attributes_premisesPostcode",
+                    "value": "E8 3RH"
+                },
+                {
+                    "attributeCode": "attributes_premisesBlpuClass",
+                    "value": "CZ01"
+                }
+            ],
+            "signature": "61d5d0cfccda3c01685fa3b6"
+        },
+        {
+            "itemId": "5f898d4790478c0067f870b5",
+            "designCode": "designs_nlpgPremises",
+            "collection": "Live",
+            "start": "9999-12-31T23:59:59.999Z",
+            "end": "9999-12-31T23:59:59.999Z",
+            "icon": "icon-resource-house",
+            "colour": "#4aa36b",
+            "locked": false,
+            "context": "Customer",
+            "attributes": [
+                {
+                    "attributeCode": "attributes_premisesPrimaryText",
+                    "value": "PUBLIC TELEPHONE OUTSIDE 129"
+                },
+                {
+                    "attributeCode": "attributes_itemsSubtitle",
+                    "value": "E8 3RH"
+                },
+                {
+                    "attributeCode": "attributes_itemsTitle",
+                    "value": "         PUBLIC TELEPHONE OUTSIDE 129  MARE STREET"
+                },
+                {
+                    "attributeCode": "attributes_premisesPostcode",
+                    "value": "E8 3RH"
+                },
+                {
+                    "attributeCode": "attributes_premisesBlpuClass",
+                    "value": "CU11"
+                }
+            ],
+            "signature": "61d5d0cfccda3c01685fa6ab"
+        },
+        {
+            "itemId": "5f898d4790478c0067f870bc",
+            "designCode": "designs_nlpgPremises",
+            "collection": "Live",
+            "start": "9999-12-31T23:59:59.999Z",
+            "end": "9999-12-31T23:59:59.999Z",
+            "icon": "icon-resource-house",
+            "colour": "#4aa36b",
+            "locked": false,
+            "context": "Customer",
+            "attributes": [
+                {
+                    "attributeCode": "attributes_premisesPrimaryText",
+                    "value": "BUS SHELTER OPPOSITE POST OFFICE ADJACENT 157A"
+                },
+                {
+                    "attributeCode": "attributes_itemsSubtitle",
+                    "value": "E8 3RH"
+                },
+                {
+                    "attributeCode": "attributes_itemsTitle",
+                    "value": "         BUS SHELTER OPPOSITE POST OFFICE ADJACENT 157A  MARE STREET"
+                },
+                {
+                    "attributeCode": "attributes_premisesPostcode",
+                    "value": "E8 3RH"
+                },
+                {
+                    "attributeCode": "attributes_premisesBlpuClass",
+                    "value": "CZ01"
+                }
+            ],
+            "signature": "61d5d0cfccda3c01685fa6b1"
+        },
+        {
+            "itemId": "5f898d4790478c0067f870ae",
+            "designCode": "designs_nlpgPremises",
+            "collection": "Live",
+            "start": "9999-12-31T23:59:59.999Z",
+            "end": "9999-12-31T23:59:59.999Z",
+            "icon": "icon-resource-house",
+            "colour": "#4aa36b",
+            "locked": false,
+            "context": "Customer",
+            "attributes": [
+                {
+                    "attributeCode": "attributes_premisesPrimaryText",
+                    "value": "BUS SHELTER OUTSIDE 143"
+                },
+                {
+                    "attributeCode": "attributes_itemsSubtitle",
+                    "value": "E8 3RH"
+                },
+                {
+                    "attributeCode": "attributes_itemsTitle",
+                    "value": "         BUS SHELTER OUTSIDE 143  MARE STREET"
+                },
+                {
+                    "attributeCode": "attributes_premisesPostcode",
+                    "value": "E8 3RH"
+                },
+                {
+                    "attributeCode": "attributes_premisesBlpuClass",
+                    "value": "CZ01"
+                }
+            ],
+            "signature": "61d5d0cfccda3c01685fa3b7"
+        },
+        {
+            "itemId": "5f898d4790478c0067f873ed",
+            "designCode": "designs_nlpgPremises",
+            "collection": "Live",
+            "start": "9999-12-31T23:59:59.999Z",
+            "end": "9999-12-31T23:59:59.999Z",
+            "icon": "icon-resource-house",
+            "colour": "#4aa36b",
+            "locked": false,
+            "context": "Customer",
+            "attributes": [
+                {
+                    "attributeCode": "attributes_premisesPrimaryStartNumber",
+                    "value": 171
+                },
+                {
+                    "attributeCode": "attributes_premisesPrimaryEndNumber",
+                    "value": 173
+                },
+                {
+                    "attributeCode": "attributes_itemsSubtitle",
+                    "value": "E8 3RH"
+                },
+                {
+                    "attributeCode": "attributes_itemsTitle",
+                    "value": "     171  173    MARE STREET"
+                },
+                {
+                    "attributeCode": "attributes_premisesPostcode",
+                    "value": "E8 3RH"
+                },
+                {
+                    "attributeCode": "attributes_premisesBlpuClass",
+                    "value": "PP"
+                }
+            ],
+            "signature": "61d5d0d6ccda3c01685fc988"
+        },
+        {
+            "itemId": "5f898d4790478c0067f873ee",
+            "designCode": "designs_nlpgPremises",
+            "collection": "Live",
+            "start": "9999-12-31T23:59:59.999Z",
+            "end": "9999-12-31T23:59:59.999Z",
+            "icon": "icon-resource-house",
+            "colour": "#4aa36b",
+            "locked": false,
+            "context": "Customer",
+            "attributes": [
+                {
+                    "attributeCode": "attributes_premisesPrimaryStartNumber",
+                    "value": 173
+                },
+                {
+                    "attributeCode": "attributes_itemsSubtitle",
+                    "value": "E8 3RH"
+                },
+                {
+                    "attributeCode": "attributes_itemsTitle",
+                    "value": "     173      MARE STREET"
+                },
+                {
+                    "attributeCode": "attributes_premisesPostcode",
+                    "value": "E8 3RH"
+                },
+                {
+                    "attributeCode": "attributes_premisesBlpuClass",
+                    "value": "CR10"
+                }
+            ],
+            "signature": "61d5d0d6ccda3c01685fc989"
+        },
+        {
+            "itemId": "5f898d4790478c0067f87cfe",
+            "designCode": "designs_nlpgPremises",
+            "collection": "Live",
+            "start": "9999-12-31T23:59:59.999Z",
+            "end": "9999-12-31T23:59:59.999Z",
+            "icon": "icon-resource-house",
+            "colour": "#4aa36b",
+            "locked": false,
+            "context": "Customer",
+            "attributes": [
+                {
+                    "attributeCode": "attributes_premisesPrimaryText",
+                    "value": "ADVERTISING RIGHT OUTSIDE 129"
+                },
+                {
+                    "attributeCode": "attributes_itemsSubtitle",
+                    "value": "E8 3RH"
+                },
+                {
+                    "attributeCode": "attributes_itemsTitle",
+                    "value": "         ADVERTISING RIGHT OUTSIDE 129  MARE STREET"
+                },
+                {
+                    "attributeCode": "attributes_premisesPostcode",
+                    "value": "E8 3RH"
+                },
+                {
+                    "attributeCode": "attributes_premisesBlpuClass",
+                    "value": "CZ01"
+                }
+            ],
+            "signature": "61d5d0e3ccda3c01686014dd"
+        },
+        {
+            "itemId": "5f898d4790478c0067f88f57",
+            "designCode": "designs_nlpgPremises",
+            "collection": "Live",
+            "start": "9999-12-31T23:59:59.999Z",
+            "end": "9999-12-31T23:59:59.999Z",
+            "icon": "icon-resource-house",
+            "colour": "#4aa36b",
+            "locked": false,
+            "context": "Customer",
+            "attributes": [
+                {
+                    "attributeCode": "attributes_premisesPrimaryStartNumber",
+                    "value": 141
+                },
+                {
+                    "attributeCode": "attributes_premisesPrimaryStartSuffix",
+                    "value": "A"
+                },
+                {
+                    "attributeCode": "attributes_itemsSubtitle",
+                    "value": "E8 3RH"
+                },
+                {
+                    "attributeCode": "attributes_itemsTitle",
+                    "value": "     141 A     MARE STREET"
+                },
+                {
+                    "attributeCode": "attributes_premisesPostcode",
+                    "value": "E8 3RH"
+                },
+                {
+                    "attributeCode": "attributes_premisesBlpuClass",
+                    "value": "C"
+                }
+            ],
+            "signature": "61d5d10dccda3c0168612115"
+        },
+        {
+            "itemId": "5f898d4790478c0067f88f55",
+            "designCode": "designs_nlpgPremises",
+            "collection": "Live",
+            "start": "9999-12-31T23:59:59.999Z",
+            "end": "9999-12-31T23:59:59.999Z",
+            "icon": "icon-resource-house",
+            "colour": "#4aa36b",
+            "locked": false,
+            "context": "Customer",
+            "attributes": [
+                {
+                    "attributeCode": "attributes_premisesPrimaryStartNumber",
+                    "value": 139
+                },
+                {
+                    "attributeCode": "attributes_itemsSubtitle",
+                    "value": "E8 3RH"
+                },
+                {
+                    "attributeCode": "attributes_itemsTitle",
+                    "value": "     139      MARE STREET"
+                },
+                {
+                    "attributeCode": "attributes_premisesPostcode",
+                    "value": "E8 3RH"
+                },
+                {
+                    "attributeCode": "attributes_premisesBlpuClass",
+                    "value": "CR08"
+                }
+            ],
+            "signature": "61d5d10dccda3c0168612113"
+        },
+        {
+            "itemId": "5f898d4790478c0067f89029",
+            "designCode": "designs_nlpgPremises",
+            "collection": "Live",
+            "start": "9999-12-31T23:59:59.999Z",
+            "end": "9999-12-31T23:59:59.999Z",
+            "icon": "icon-resource-house",
+            "colour": "#4aa36b",
+            "locked": false,
+            "context": "Customer",
+            "attributes": [
+                {
+                    "attributeCode": "attributes_premisesPrimaryText",
+                    "value": "ADVERTISING RIGHT ADJACENT 137"
+                },
+                {
+                    "attributeCode": "attributes_itemsSubtitle",
+                    "value": "E8 3RH"
+                },
+                {
+                    "attributeCode": "attributes_itemsTitle",
+                    "value": "         ADVERTISING RIGHT ADJACENT 137  MARE STREET"
+                },
+                {
+                    "attributeCode": "attributes_premisesPostcode",
+                    "value": "E8 3RH"
+                },
+                {
+                    "attributeCode": "attributes_premisesBlpuClass",
+                    "value": "CZ01"
+                }
+            ],
+            "signature": "61d5d10eccda3c01686124cf"
+        },
+        {
+            "itemId": "5f898d4790478c0067f894b6",
+            "designCode": "designs_nlpgPremises",
+            "collection": "Live",
+            "start": "9999-12-31T23:59:59.999Z",
+            "end": "9999-12-31T23:59:59.999Z",
+            "icon": "icon-resource-house",
+            "colour": "#4aa36b",
+            "locked": false,
+            "context": "Customer",
+            "attributes": [
+                {
+                    "attributeCode": "attributes_premisesPrimaryText",
+                    "value": "TROUGH NORTH OF WESTGATE STREET"
+                },
+                {
+                    "attributeCode": "attributes_itemsSubtitle",
+                    "value": "E8 3RH"
+                },
+                {
+                    "attributeCode": "attributes_itemsTitle",
+                    "value": "         TROUGH NORTH OF WESTGATE STREET  MARE STREET"
+                },
+                {
+                    "attributeCode": "attributes_premisesPostcode",
+                    "value": "E8 3RH"
+                },
+                {
+                    "attributeCode": "attributes_premisesBlpuClass",
+                    "value": "ZM05"
+                }
+            ],
+            "signature": "61d5d114ccda3c0168614ba9"
+        },
+        {
+            "itemId": "5f898d4790478c0067f8cc8d",
+            "designCode": "designs_nlpgPremises",
+            "collection": "Live",
+            "start": "9999-12-31T23:59:59.999Z",
+            "end": "9999-12-31T23:59:59.999Z",
+            "icon": "icon-resource-house",
+            "colour": "#4aa36b",
+            "locked": false,
+            "context": "Customer",
+            "attributes": [
+                {
+                    "attributeCode": "attributes_premisesPrimaryStartNumber",
+                    "value": 165
+                },
+                {
+                    "attributeCode": "attributes_premisesPrimaryText",
+                    "value": "THE DOLPHIN"
+                },
+                {
+                    "attributeCode": "attributes_itemsSubtitle",
+                    "value": "E8 3RH"
+                },
+                {
+                    "attributeCode": "attributes_itemsTitle",
+                    "value": "     165    THE DOLPHIN  MARE STREET"
+                },
+                {
+                    "attributeCode": "attributes_premisesPostcode",
+                    "value": "E8 3RH"
+                },
+                {
+                    "attributeCode": "attributes_premisesBlpuClass",
+                    "value": "CR06"
+                }
+            ],
+            "signature": "61d5d16accda3c016863b39b"
+        },
+        {
+            "itemId": "5f898d4790478c0067f8cc89",
+            "designCode": "designs_nlpgPremises",
+            "collection": "Live",
+            "start": "9999-12-31T23:59:59.999Z",
+            "end": "9999-12-31T23:59:59.999Z",
+            "icon": "icon-resource-house",
+            "colour": "#4aa36b",
+            "locked": false,
+            "context": "Customer",
+            "attributes": [
+                {
+                    "attributeCode": "attributes_premisesPrimaryStartNumber",
+                    "value": 137
+                },
+                {
+                    "attributeCode": "attributes_premisesPrimaryText",
+                    "value": "MARTELLO HALL"
+                },
+                {
+                    "attributeCode": "attributes_itemsSubtitle",
+                    "value": "E8 3RH"
+                },
+                {
+                    "attributeCode": "attributes_itemsTitle",
+                    "value": "     137    MARTELLO HALL  MARE STREET"
+                },
+                {
+                    "attributeCode": "attributes_premisesPostcode",
+                    "value": "E8 3RH"
+                },
+                {
+                    "attributeCode": "attributes_premisesBlpuClass",
+                    "value": "CR06"
+                }
+            ],
+            "signature": "61d5d16accda3c016863b397"
+        },
+        {
+            "itemId": "5f898d4790478c0067f8cc8c",
+            "designCode": "designs_nlpgPremises",
+            "collection": "Live",
+            "start": "9999-12-31T23:59:59.999Z",
+            "end": "9999-12-31T23:59:59.999Z",
+            "icon": "icon-resource-house",
+            "colour": "#4aa36b",
+            "locked": false,
+            "context": "Customer",
+            "attributes": [
+                {
+                    "attributeCode": "attributes_premisesPrimaryStartNumber",
+                    "value": 163
+                },
+                {
+                    "attributeCode": "attributes_itemsSubtitle",
+                    "value": "E8 3RH"
+                },
+                {
+                    "attributeCode": "attributes_itemsTitle",
+                    "value": "     163      MARE STREET"
+                },
+                {
+                    "attributeCode": "attributes_premisesPostcode",
+                    "value": "E8 3RH"
+                },
+                {
+                    "attributeCode": "attributes_premisesBlpuClass",
+                    "value": "CR07"
+                }
+            ],
+            "signature": "61d5d16accda3c016863b39a"
+        },
+        {
+            "itemId": "5f898d4790478c0067f8cc8b",
+            "designCode": "designs_nlpgPremises",
+            "collection": "Live",
+            "start": "9999-12-31T23:59:59.999Z",
+            "end": "9999-12-31T23:59:59.999Z",
+            "icon": "icon-resource-house",
+            "colour": "#4aa36b",
+            "locked": false,
+            "context": "Customer",
+            "attributes": [
+                {
+                    "attributeCode": "attributes_premisesPrimaryStartNumber",
+                    "value": 157
+                },
+                {
+                    "attributeCode": "attributes_premisesPrimaryStartSuffix",
+                    "value": "A"
+                },
+                {
+                    "attributeCode": "attributes_itemsSubtitle",
+                    "value": "E8 3RH"
+                },
+                {
+                    "attributeCode": "attributes_itemsTitle",
+                    "value": "     157 A     MARE STREET"
+                },
+                {
+                    "attributeCode": "attributes_premisesPostcode",
+                    "value": "E8 3RH"
+                },
+                {
+                    "attributeCode": "attributes_premisesBlpuClass",
+                    "value": "CR08"
+                }
+            ],
+            "signature": "61d5d16accda3c016863b399"
+        },
+        {
+            "itemId": "5f898d4790478c0067f90064",
+            "designCode": "designs_nlpgPremises",
+            "collection": "Live",
+            "start": "9999-12-31T23:59:59.999Z",
+            "end": "9999-12-31T23:59:59.999Z",
+            "icon": "icon-resource-house",
+            "colour": "#4aa36b",
+            "locked": false,
+            "context": "Customer",
+            "attributes": [
+                {
+                    "attributeCode": "attributes_premisesPrimaryStartNumber",
+                    "value": 121
+                },
+                {
+                    "attributeCode": "attributes_premisesPrimaryEndNumber",
+                    "value": 123
+                },
+                {
+                    "attributeCode": "attributes_itemsSubtitle",
+                    "value": "E8 3RH"
+                },
+                {
+                    "attributeCode": "attributes_itemsTitle",
+                    "value": "     121  123    MARE STREET"
+                },
+                {
+                    "attributeCode": "attributes_premisesPostcode",
+                    "value": "E8 3RH"
+                },
+                {
+                    "attributeCode": "attributes_premisesBlpuClass",
+                    "value": "CR07"
+                }
+            ],
+            "signature": "61d5d1c8ccda3c016865feab"
+        },
+        {
+            "itemId": "5f898d4790478c0067f90009",
+            "designCode": "designs_nlpgPremises",
+            "collection": "Live",
+            "start": "9999-12-31T23:59:59.999Z",
+            "end": "9999-12-31T23:59:59.999Z",
+            "icon": "icon-resource-house",
+            "colour": "#4aa36b",
+            "locked": false,
+            "context": "Customer",
+            "attributes": [
+                {
+                    "attributeCode": "attributes_premisesPrimaryStartNumber",
+                    "value": 125
+                },
+                {
+                    "attributeCode": "attributes_premisesPrimaryEndNumber",
+                    "value": 127
+                },
+                {
+                    "attributeCode": "attributes_itemsSubtitle",
+                    "value": "E8 3RH"
+                },
+                {
+                    "attributeCode": "attributes_itemsTitle",
+                    "value": "     125  127    MARE STREET"
+                },
+                {
+                    "attributeCode": "attributes_premisesPostcode",
+                    "value": "E8 3RH"
+                },
+                {
+                    "attributeCode": "attributes_premisesBlpuClass",
+                    "value": "CO01"
+                }
+            ],
+            "signature": "61d5d1c7ccda3c016865fa5c"
+        },
+        {
+            "itemId": "5f898d4790478c0067f90066",
+            "designCode": "designs_nlpgPremises",
+            "collection": "Live",
+            "start": "9999-12-31T23:59:59.999Z",
+            "end": "9999-12-31T23:59:59.999Z",
+            "icon": "icon-resource-house",
+            "colour": "#4aa36b",
+            "locked": false,
+            "context": "Customer",
+            "attributes": [
+                {
+                    "attributeCode": "attributes_premisesPrimaryStartNumber",
+                    "value": 159
+                },
+                {
+                    "attributeCode": "attributes_premisesPrimaryStartSuffix",
+                    "value": "A"
+                },
+                {
+                    "attributeCode": "attributes_itemsSubtitle",
+                    "value": "E8 3RH"
+                },
+                {
+                    "attributeCode": "attributes_itemsTitle",
+                    "value": "     159 A     MARE STREET"
+                },
+                {
+                    "attributeCode": "attributes_premisesPostcode",
+                    "value": "E8 3RH"
+                },
+                {
+                    "attributeCode": "attributes_premisesBlpuClass",
+                    "value": "CR08"
+                }
+            ],
+            "signature": "61d5d1c8ccda3c016865fead"
+        },
+        {
+            "itemId": "5f898d4790478c0067f9006e",
+            "designCode": "designs_nlpgPremises",
+            "collection": "Live",
+            "start": "9999-12-31T23:59:59.999Z",
+            "end": "9999-12-31T23:59:59.999Z",
+            "icon": "icon-resource-house",
+            "colour": "#4aa36b",
+            "locked": false,
+            "context": "Customer",
+            "attributes": [
+                {
+                    "attributeCode": "attributes_premisesPrimaryStartNumber",
+                    "value": 169
+                },
+                {
+                    "attributeCode": "attributes_itemsSubtitle",
+                    "value": "E8 3RH"
+                },
+                {
+                    "attributeCode": "attributes_itemsTitle",
+                    "value": "     169      MARE STREET"
+                },
+                {
+                    "attributeCode": "attributes_premisesPostcode",
+                    "value": "E8 3RH"
+                },
+                {
+                    "attributeCode": "attributes_premisesBlpuClass",
+                    "value": "PP"
+                }
+            ],
+            "signature": "61d5d1c8ccda3c016865feb5"
+        },
+        {
+            "itemId": "5f898d4790478c0067f90072",
+            "designCode": "designs_nlpgPremises",
+            "collection": "Live",
+            "start": "9999-12-31T23:59:59.999Z",
+            "end": "9999-12-31T23:59:59.999Z",
+            "icon": "icon-resource-house",
+            "colour": "#4aa36b",
+            "locked": false,
+            "context": "Customer",
+            "attributes": [
+                {
+                    "attributeCode": "attributes_premisesPrimaryStartNumber",
+                    "value": 155
+                },
+                {
+                    "attributeCode": "attributes_itemsSubtitle",
+                    "value": "E8 3RH"
+                },
+                {
+                    "attributeCode": "attributes_itemsTitle",
+                    "value": "     155      MARE STREET"
+                },
+                {
+                    "attributeCode": "attributes_premisesPostcode",
+                    "value": "E8 3RH"
+                },
+                {
+                    "attributeCode": "attributes_premisesBlpuClass",
+                    "value": "CR09"
+                }
+            ],
+            "signature": "61d5d1c8ccda3c016865feb9"
+        },
+        {
+            "itemId": "5f898d4790478c0067f9005e",
+            "designCode": "designs_nlpgPremises",
+            "collection": "Live",
+            "start": "9999-12-31T23:59:59.999Z",
+            "end": "9999-12-31T23:59:59.999Z",
+            "icon": "icon-resource-house",
+            "colour": "#4aa36b",
+            "locked": false,
+            "context": "Customer",
+            "attributes": [
+                {
+                    "attributeCode": "attributes_premisesPrimaryStartNumber",
+                    "value": 157
+                },
+                {
+                    "attributeCode": "attributes_premisesPrimaryStartSuffix",
+                    "value": "B"
+                },
+                {
+                    "attributeCode": "attributes_itemsSubtitle",
+                    "value": "E8 3RH"
+                },
+                {
+                    "attributeCode": "attributes_itemsTitle",
+                    "value": "     157 B     MARE STREET"
+                },
+                {
+                    "attributeCode": "attributes_premisesPostcode",
+                    "value": "E8 3RH"
+                },
+                {
+                    "attributeCode": "attributes_premisesBlpuClass",
+                    "value": "CR10"
+                }
+            ],
+            "signature": "61d5d1c8ccda3c016865fea5"
+        },
+        {
+            "itemId": "5f898d4790478c0067f8ffda",
+            "designCode": "designs_nlpgPremises",
+            "collection": "Live",
+            "start": "9999-12-31T23:59:59.999Z",
+            "end": "9999-12-31T23:59:59.999Z",
+            "icon": "icon-resource-house",
+            "colour": "#4aa36b",
+            "locked": false,
+            "context": "Customer",
+            "attributes": [
+                {
+                    "attributeCode": "attributes_premisesPrimaryStartNumber",
+                    "value": 159
+                },
+                {
+                    "attributeCode": "attributes_itemsSubtitle",
+                    "value": "E8 3RH"
+                },
+                {
+                    "attributeCode": "attributes_itemsTitle",
+                    "value": "     159      MARE STREET"
+                },
+                {
+                    "attributeCode": "attributes_premisesPostcode",
+                    "value": "E8 3RH"
+                },
+                {
+                    "attributeCode": "attributes_premisesBlpuClass",
+                    "value": "PP"
+                }
+            ],
+            "signature": "61d5d1c7ccda3c016865fa30"
+        },
+        {
+            "itemId": "5f898d4790478c0067f8ffde",
+            "designCode": "designs_nlpgPremises",
+            "collection": "Live",
+            "start": "9999-12-31T23:59:59.999Z",
+            "end": "9999-12-31T23:59:59.999Z",
+            "icon": "icon-resource-house",
+            "colour": "#4aa36b",
+            "locked": false,
+            "context": "Customer",
+            "attributes": [
+                {
+                    "attributeCode": "attributes_premisesPrimaryStartNumber",
+                    "value": 175
+                },
+                {
+                    "attributeCode": "attributes_itemsSubtitle",
+                    "value": "E8 3RH"
+                },
+                {
+                    "attributeCode": "attributes_itemsTitle",
+                    "value": "     175      MARE STREET"
+                },
+                {
+                    "attributeCode": "attributes_premisesPostcode",
+                    "value": "E8 3RH"
+                },
+                {
+                    "attributeCode": "attributes_premisesBlpuClass",
+                    "value": "CR07"
+                }
+            ],
+            "signature": "61d5d1c7ccda3c016865fa34"
+        },
+        {
+            "itemId": "5f898d4790478c0067f90077",
+            "designCode": "designs_nlpgPremises",
+            "collection": "Live",
+            "start": "9999-12-31T23:59:59.999Z",
+            "end": "9999-12-31T23:59:59.999Z",
+            "icon": "icon-resource-house",
+            "colour": "#4aa36b",
+            "locked": false,
+            "context": "Customer",
+            "attributes": [
+                {
+                    "attributeCode": "attributes_premisesPrimaryStartNumber",
+                    "value": 177
+                },
+                {
+                    "attributeCode": "attributes_itemsSubtitle",
+                    "value": "E8 3RH"
+                },
+                {
+                    "attributeCode": "attributes_itemsTitle",
+                    "value": "     177      MARE STREET"
+                },
+                {
+                    "attributeCode": "attributes_premisesPostcode",
+                    "value": "E8 3RH"
+                },
+                {
+                    "attributeCode": "attributes_premisesBlpuClass",
+                    "value": "PP"
+                }
+            ],
+            "signature": "61d5d1c8ccda3c016865febe"
+        },
+        {
+            "itemId": "5f898d4790478c0067f8ffdb",
+            "designCode": "designs_nlpgPremises",
+            "collection": "Live",
+            "start": "9999-12-31T23:59:59.999Z",
+            "end": "9999-12-31T23:59:59.999Z",
+            "icon": "icon-resource-house",
+            "colour": "#4aa36b",
+            "locked": false,
+            "context": "Customer",
+            "attributes": [
+                {
+                    "attributeCode": "attributes_premisesPrimaryStartNumber",
+                    "value": 161
+                },
+                {
+                    "attributeCode": "attributes_itemsSubtitle",
+                    "value": "E8 3RH"
+                },
+                {
+                    "attributeCode": "attributes_itemsTitle",
+                    "value": "     161      MARE STREET"
+                },
+                {
+                    "attributeCode": "attributes_premisesPostcode",
+                    "value": "E8 3RH"
+                },
+                {
+                    "attributeCode": "attributes_premisesBlpuClass",
+                    "value": "CR07"
+                }
+            ],
+            "signature": "61d5d1c7ccda3c016865fa31"
+        },
+        {
+            "itemId": "5f898d4790478c0067f8ffdc",
+            "designCode": "designs_nlpgPremises",
+            "collection": "Live",
+            "start": "9999-12-31T23:59:59.999Z",
+            "end": "9999-12-31T23:59:59.999Z",
+            "icon": "icon-resource-house",
+            "colour": "#4aa36b",
+            "locked": false,
+            "context": "Customer",
+            "attributes": [
+                {
+                    "attributeCode": "attributes_premisesPrimaryStartNumber",
+                    "value": 167
+                },
+                {
+                    "attributeCode": "attributes_itemsSubtitle",
+                    "value": "E8 3RH"
+                },
+                {
+                    "attributeCode": "attributes_itemsTitle",
+                    "value": "     167      MARE STREET"
+                },
+                {
+                    "attributeCode": "attributes_premisesPostcode",
+                    "value": "E8 3RH"
+                },
+                {
+                    "attributeCode": "attributes_premisesBlpuClass",
+                    "value": "PP"
+                }
+            ],
+            "signature": "61d5d1c7ccda3c016865fa32"
+        },
+        {
+            "itemId": "5f898d4790478c0067f90061",
+            "designCode": "designs_nlpgPremises",
+            "collection": "Live",
+            "start": "9999-12-31T23:59:59.999Z",
+            "end": "9999-12-31T23:59:59.999Z",
+            "icon": "icon-resource-house",
+            "colour": "#4aa36b",
+            "locked": false,
+            "context": "Customer",
+            "attributes": [
+                {
+                    "attributeCode": "attributes_premisesPrimaryStartNumber",
+                    "value": 155
+                },
+                {
+                    "attributeCode": "attributes_premisesPrimaryStartSuffix",
+                    "value": "A"
+                },
+                {
+                    "attributeCode": "attributes_itemsSubtitle",
+                    "value": "E8 3RH"
+                },
+                {
+                    "attributeCode": "attributes_itemsTitle",
+                    "value": "     155 A     MARE STREET"
+                },
+                {
+                    "attributeCode": "attributes_premisesPostcode",
+                    "value": "E8 3RH"
+                },
+                {
+                    "attributeCode": "attributes_premisesBlpuClass",
+                    "value": "RD04"
+                }
+            ],
+            "signature": "61d5d1c8ccda3c016865fea8"
+        },
+        {
+            "itemId": "5f898d4790478c0067f8ffdd",
+            "designCode": "designs_nlpgPremises",
+            "collection": "Live",
+            "start": "9999-12-31T23:59:59.999Z",
+            "end": "9999-12-31T23:59:59.999Z",
+            "icon": "icon-resource-house",
+            "colour": "#4aa36b",
+            "locked": false,
+            "context": "Customer",
+            "attributes": [
+                {
+                    "attributeCode": "attributes_premisesPrimaryStartNumber",
+                    "value": 171
+                },
+                {
+                    "attributeCode": "attributes_itemsSubtitle",
+                    "value": "E8 3RH"
+                },
+                {
+                    "attributeCode": "attributes_itemsTitle",
+                    "value": "     171      MARE STREET"
+                },
+                {
+                    "attributeCode": "attributes_premisesPostcode",
+                    "value": "E8 3RH"
+                },
+                {
+                    "attributeCode": "attributes_premisesBlpuClass",
+                    "value": "PP"
+                }
+            ],
+            "signature": "61d5d1c7ccda3c016865fa33"
+        },
+        {
+            "itemId": "5f898d4790478c0067f8ffd9",
+            "designCode": "designs_nlpgPremises",
+            "collection": "Live",
+            "start": "9999-12-31T23:59:59.999Z",
+            "end": "9999-12-31T23:59:59.999Z",
+            "icon": "icon-resource-house",
+            "colour": "#4aa36b",
+            "locked": false,
+            "context": "Customer",
+            "attributes": [
+                {
+                    "attributeCode": "attributes_premisesPrimaryStartNumber",
+                    "value": 157
+                },
+                {
+                    "attributeCode": "attributes_itemsSubtitle",
+                    "value": "E8 3RH"
+                },
+                {
+                    "attributeCode": "attributes_itemsTitle",
+                    "value": "     157      MARE STREET"
+                },
+                {
+                    "attributeCode": "attributes_premisesPostcode",
+                    "value": "E8 3RH"
+                },
+                {
+                    "attributeCode": "attributes_premisesBlpuClass",
+                    "value": "PP"
+                }
+            ],
+            "signature": "61d5d1c7ccda3c016865fa2f"
+        },
+        {
+            "itemId": "5f898d4790478c0067f917d7",
+            "designCode": "designs_nlpgPremises",
+            "collection": "Live",
+            "start": "9999-12-31T23:59:59.999Z",
+            "end": "9999-12-31T23:59:59.999Z",
+            "icon": "icon-resource-house",
+            "colour": "#4aa36b",
+            "locked": false,
+            "context": "Customer",
+            "attributes": [
+                {
+                    "attributeCode": "attributes_premisesPrimaryStartNumber",
+                    "value": 129
+                },
+                {
+                    "attributeCode": "attributes_premisesPrimaryEndNumber",
+                    "value": 135
+                },
+                {
+                    "attributeCode": "attributes_itemsSubtitle",
+                    "value": "E8 3RH"
+                },
+                {
+                    "attributeCode": "attributes_itemsTitle",
+                    "value": "     129  135    MARE STREET"
+                },
+                {
+                    "attributeCode": "attributes_premisesPostcode",
+                    "value": "E8 3RH"
+                },
+                {
+                    "attributeCode": "attributes_premisesBlpuClass",
+                    "value": "CI04"
+                }
+            ],
+            "signature": "61d5d1ecccda3c0168673dd7"
+        },
+        {
+            "itemId": "5f898d4790478c0067f91bf6",
+            "designCode": "designs_nlpgPremises",
+            "collection": "Live",
+            "start": "9999-12-31T23:59:59.999Z",
+            "end": "9999-12-31T23:59:59.999Z",
+            "icon": "icon-resource-house",
+            "colour": "#4aa36b",
+            "locked": false,
+            "context": "Customer",
+            "attributes": [
+                {
+                    "attributeCode": "attributes_premisesPrimaryStartNumber",
+                    "value": 169
+                },
+                {
+                    "attributeCode": "attributes_premisesPrimaryStartSuffix",
+                    "value": "A"
+                },
+                {
+                    "attributeCode": "attributes_itemsSubtitle",
+                    "value": "E8 3RH"
+                },
+                {
+                    "attributeCode": "attributes_itemsTitle",
+                    "value": "     169 A     MARE STREET"
+                },
+                {
+                    "attributeCode": "attributes_premisesPostcode",
+                    "value": "E8 3RH"
+                },
+                {
+                    "attributeCode": "attributes_premisesBlpuClass",
+                    "value": "PP"
+                }
+            ],
+            "signature": "61d5d1f1ccda3c0168676420"
+        },
+        {
+            "itemId": "5f898d4790478c0067f91bf7",
+            "designCode": "designs_nlpgPremises",
+            "collection": "Live",
+            "start": "9999-12-31T23:59:59.999Z",
+            "end": "9999-12-31T23:59:59.999Z",
+            "icon": "icon-resource-house",
+            "colour": "#4aa36b",
+            "locked": false,
+            "context": "Customer",
+            "attributes": [
+                {
+                    "attributeCode": "attributes_premisesPrimaryStartNumber",
+                    "value": 175
+                },
+                {
+                    "attributeCode": "attributes_premisesPrimaryStartSuffix",
+                    "value": "A"
+                },
+                {
+                    "attributeCode": "attributes_itemsSubtitle",
+                    "value": "E8 3RH"
+                },
+                {
+                    "attributeCode": "attributes_itemsTitle",
+                    "value": "     175 A     MARE STREET"
+                },
+                {
+                    "attributeCode": "attributes_premisesPostcode",
+                    "value": "E8 3RH"
+                },
+                {
+                    "attributeCode": "attributes_premisesBlpuClass",
+                    "value": "PP"
+                }
+            ],
+            "signature": "61d5d1f1ccda3c0168676421"
+        },
+        {
+            "itemId": "5f898d4790478c0067f91bf5",
+            "designCode": "designs_nlpgPremises",
+            "collection": "Live",
+            "start": "9999-12-31T23:59:59.999Z",
+            "end": "9999-12-31T23:59:59.999Z",
+            "icon": "icon-resource-house",
+            "colour": "#4aa36b",
+            "locked": false,
+            "context": "Customer",
+            "attributes": [
+                {
+                    "attributeCode": "attributes_premisesPrimaryStartNumber",
+                    "value": 123
+                },
+                {
+                    "attributeCode": "attributes_itemsSubtitle",
+                    "value": "E8 3RH"
+                },
+                {
+                    "attributeCode": "attributes_itemsTitle",
+                    "value": "     123      MARE STREET"
+                },
+                {
+                    "attributeCode": "attributes_premisesPostcode",
+                    "value": "E8 3RH"
+                },
+                {
+                    "attributeCode": "attributes_premisesBlpuClass",
+                    "value": "PP"
+                }
+            ],
+            "signature": "61d5d1f1ccda3c016867641f"
+        },
+        {
+            "itemId": "5f898d4790478c0067f95186",
+            "designCode": "designs_nlpgPremises",
+            "collection": "Live",
+            "start": "9999-12-31T23:59:59.999Z",
+            "end": "9999-12-31T23:59:59.999Z",
+            "icon": "icon-resource-house",
+            "colour": "#4aa36b",
+            "locked": false,
+            "context": "Customer",
+            "attributes": [
+                {
+                    "attributeCode": "attributes_premisesPrimaryStartNumber",
+                    "value": 123
+                },
+                {
+                    "attributeCode": "attributes_itemsSubtitle",
+                    "value": "E8 3RH"
+                },
+                {
+                    "attributeCode": "attributes_itemsTitle",
+                    "value": "    FLAT 2 123      MARE STREET"
+                },
+                {
+                    "attributeCode": "attributes_premisesPostcode",
+                    "value": "E8 3RH"
+                },
+                {
+                    "attributeCode": "attributes_premisesBlpuClass",
+                    "value": "RD06"
+                }
+            ],
+            "signature": "61d5d253ccda3c016869a9fb"
+        },
+        {
+            "itemId": "5f898d4790478c0067f95187",
+            "designCode": "designs_nlpgPremises",
+            "collection": "Live",
+            "start": "9999-12-31T23:59:59.999Z",
+            "end": "9999-12-31T23:59:59.999Z",
+            "icon": "icon-resource-house",
+            "colour": "#4aa36b",
+            "locked": false,
+            "context": "Customer",
+            "attributes": [
+                {
+                    "attributeCode": "attributes_premisesPrimaryStartNumber",
+                    "value": 155
+                },
+                {
+                    "attributeCode": "attributes_itemsSubtitle",
+                    "value": "E8 3RH"
+                },
+                {
+                    "attributeCode": "attributes_itemsTitle",
+                    "value": "    FLAT 2 155      MARE STREET"
+                },
+                {
+                    "attributeCode": "attributes_premisesPostcode",
+                    "value": "E8 3RH"
+                },
+                {
+                    "attributeCode": "attributes_premisesBlpuClass",
+                    "value": "RH02"
+                }
+            ],
+            "signature": "61d5d253ccda3c016869a9fc"
+        },
+        {
+            "itemId": "5f898d4790478c0067f96321",
+            "designCode": "designs_nlpgPremises",
+            "collection": "Live",
+            "start": "9999-12-31T23:59:59.999Z",
+            "end": "9999-12-31T23:59:59.999Z",
+            "icon": "icon-resource-house",
+            "colour": "#4aa36b",
+            "locked": false,
+            "context": "Customer",
+            "attributes": [
+                {
+                    "attributeCode": "attributes_premisesPrimaryStartNumber",
+                    "value": 177
+                },
+                {
+                    "attributeCode": "attributes_itemsSubtitle",
+                    "value": "E8 3RH"
+                },
+                {
+                    "attributeCode": "attributes_itemsTitle",
+                    "value": "    FLAT 1 177      MARE STREET"
+                },
+                {
+                    "attributeCode": "attributes_premisesPostcode",
+                    "value": "E8 3RH"
+                },
+                {
+                    "attributeCode": "attributes_premisesBlpuClass",
+                    "value": "RD06"
+                }
+            ],
+            "signature": "61d5d27eccda3c01686abb0f"
+        },
+        {
+            "itemId": "5f898d4790478c0067f96322",
+            "designCode": "designs_nlpgPremises",
+            "collection": "Live",
+            "start": "9999-12-31T23:59:59.999Z",
+            "end": "9999-12-31T23:59:59.999Z",
+            "icon": "icon-resource-house",
+            "colour": "#4aa36b",
+            "locked": false,
+            "context": "Customer",
+            "attributes": [
+                {
+                    "attributeCode": "attributes_premisesPrimaryStartNumber",
+                    "value": 177
+                },
+                {
+                    "attributeCode": "attributes_itemsSubtitle",
+                    "value": "E8 3RH"
+                },
+                {
+                    "attributeCode": "attributes_itemsTitle",
+                    "value": "    FLAT 2 177      MARE STREET"
+                },
+                {
+                    "attributeCode": "attributes_premisesPostcode",
+                    "value": "E8 3RH"
+                },
+                {
+                    "attributeCode": "attributes_premisesBlpuClass",
+                    "value": "RD06"
+                }
+            ],
+            "signature": "61d5d27eccda3c01686abb10"
+        },
+        {
+            "itemId": "5f898d4790478c0067f96bd5",
+            "designCode": "designs_nlpgPremises",
+            "collection": "Live",
+            "start": "9999-12-31T23:59:59.999Z",
+            "end": "9999-12-31T23:59:59.999Z",
+            "icon": "icon-resource-house",
+            "colour": "#4aa36b",
+            "locked": false,
+            "context": "Customer",
+            "attributes": [
+                {
+                    "attributeCode": "attributes_premisesPrimaryStartNumber",
+                    "value": 155
+                },
+                {
+                    "attributeCode": "attributes_itemsSubtitle",
+                    "value": "E8 3RH"
+                },
+                {
+                    "attributeCode": "attributes_itemsTitle",
+                    "value": "    FLAT 3 155      MARE STREET"
+                },
+                {
+                    "attributeCode": "attributes_premisesPostcode",
+                    "value": "E8 3RH"
+                },
+                {
+                    "attributeCode": "attributes_premisesBlpuClass",
+                    "value": "RD06"
+                }
+            ],
+            "signature": "61d5d28accda3c01686b0756"
+        },
+        {
+            "itemId": "5f898d4790478c0067f96c95",
+            "designCode": "designs_nlpgPremises",
+            "collection": "Live",
+            "start": "9999-12-31T23:59:59.999Z",
+            "end": "9999-12-31T23:59:59.999Z",
+            "icon": "icon-resource-house",
+            "colour": "#4aa36b",
+            "locked": false,
+            "context": "Customer",
+            "attributes": [
+                {
+                    "attributeCode": "attributes_premisesPrimaryStartNumber",
+                    "value": 123
+                },
+                {
+                    "attributeCode": "attributes_itemsSubtitle",
+                    "value": "E8 3RH"
+                },
+                {
+                    "attributeCode": "attributes_itemsTitle",
+                    "value": "    FLAT 4 123      MARE STREET"
+                },
+                {
+                    "attributeCode": "attributes_premisesPostcode",
+                    "value": "E8 3RH"
+                },
+                {
+                    "attributeCode": "attributes_premisesBlpuClass",
+                    "value": "RD06"
+                }
+            ],
+            "signature": "61d5d28bccda3c01686b0b45"
+        },
+        {
+            "itemId": "5f898d4790478c0067f96c94",
+            "designCode": "designs_nlpgPremises",
+            "collection": "Live",
+            "start": "9999-12-31T23:59:59.999Z",
+            "end": "9999-12-31T23:59:59.999Z",
+            "icon": "icon-resource-house",
+            "colour": "#4aa36b",
+            "locked": false,
+            "context": "Customer",
+            "attributes": [
+                {
+                    "attributeCode": "attributes_premisesPrimaryStartNumber",
+                    "value": 123
+                },
+                {
+                    "attributeCode": "attributes_itemsSubtitle",
+                    "value": "E8 3RH"
+                },
+                {
+                    "attributeCode": "attributes_itemsTitle",
+                    "value": "    FLAT 1 123      MARE STREET"
+                },
+                {
+                    "attributeCode": "attributes_premisesPostcode",
+                    "value": "E8 3RH"
+                },
+                {
+                    "attributeCode": "attributes_premisesBlpuClass",
+                    "value": "RD06"
+                }
+            ],
+            "signature": "61d5d28bccda3c01686b0b44"
+        },
+        {
+            "itemId": "5f898d4790478c0067f97dc3",
+            "designCode": "designs_nlpgPremises",
+            "collection": "Live",
+            "start": "9999-12-31T23:59:59.999Z",
+            "end": "9999-12-31T23:59:59.999Z",
+            "icon": "icon-resource-house",
+            "colour": "#4aa36b",
+            "locked": false,
+            "context": "Customer",
+            "attributes": [
+                {
+                    "attributeCode": "attributes_premisesPrimaryStartNumber",
+                    "value": 155
+                },
+                {
+                    "attributeCode": "attributes_premisesPrimaryStartSuffix",
+                    "value": "A"
+                },
+                {
+                    "attributeCode": "attributes_itemsSubtitle",
+                    "value": "E8 3RH"
+                },
+                {
+                    "attributeCode": "attributes_itemsTitle",
+                    "value": "    SECOND FLOOR FLAT 155 A     MARE STREET"
+                },
+                {
+                    "attributeCode": "attributes_premisesPostcode",
+                    "value": "E8 3RH"
+                },
+                {
+                    "attributeCode": "attributes_premisesBlpuClass",
+                    "value": "RD06"
+                }
+            ],
+            "signature": "61d5d2bfccda3c01686c1683"
+        },
+        {
+            "itemId": "5f898d4790478c0067f9801d",
+            "designCode": "designs_nlpgPremises",
+            "collection": "Live",
+            "start": "9999-12-31T23:59:59.999Z",
+            "end": "9999-12-31T23:59:59.999Z",
+            "icon": "icon-resource-house",
+            "colour": "#4aa36b",
+            "locked": false,
+            "context": "Customer",
+            "attributes": [
+                {
+                    "attributeCode": "attributes_premisesPrimaryStartNumber",
+                    "value": 157
+                },
+                {
+                    "attributeCode": "attributes_premisesPrimaryStartSuffix",
+                    "value": "B"
+                },
+                {
+                    "attributeCode": "attributes_itemsSubtitle",
+                    "value": "E8 3RH"
+                },
+                {
+                    "attributeCode": "attributes_itemsTitle",
+                    "value": "    SECOND FLOOR FLAT 157 B     MARE STREET"
+                },
+                {
+                    "attributeCode": "attributes_premisesPostcode",
+                    "value": "E8 3RH"
+                },
+                {
+                    "attributeCode": "attributes_premisesBlpuClass",
+                    "value": "RD06"
+                }
+            ],
+            "signature": "61d5d2c0ccda3c01686c1eaf"
+        },
+        {
+            "itemId": "5f898d4790478c0067f98694",
+            "designCode": "designs_nlpgPremises",
+            "collection": "Live",
+            "start": "9999-12-31T23:59:59.999Z",
+            "end": "9999-12-31T23:59:59.999Z",
+            "icon": "icon-resource-house",
+            "colour": "#4aa36b",
+            "locked": false,
+            "context": "Customer",
+            "attributes": [
+                {
+                    "attributeCode": "attributes_premisesPrimaryStartNumber",
+                    "value": 159
+                },
+                {
+                    "attributeCode": "attributes_itemsSubtitle",
+                    "value": "E8 3RH"
+                },
+                {
+                    "attributeCode": "attributes_itemsTitle",
+                    "value": "    BASEMENT AND GROUND FLOOR 159      MARE STREET"
+                },
+                {
+                    "attributeCode": "attributes_premisesPostcode",
+                    "value": "E8 3RH"
+                },
+                {
+                    "attributeCode": "attributes_premisesBlpuClass",
+                    "value": "CR08"
+                }
+            ],
+            "signature": "61d5d2ccccda3c01686c6199"
+        },
+        {
+            "itemId": "5f898d4790478c0067f98727",
+            "designCode": "designs_nlpgPremises",
+            "collection": "Live",
+            "start": "9999-12-31T23:59:59.999Z",
+            "end": "9999-12-31T23:59:59.999Z",
+            "icon": "icon-resource-house",
+            "colour": "#4aa36b",
+            "locked": false,
+            "context": "Customer",
+            "attributes": [
+                {
+                    "attributeCode": "attributes_premisesPrimaryStartNumber",
+                    "value": 161
+                },
+                {
+                    "attributeCode": "attributes_itemsSubtitle",
+                    "value": "E8 3RH"
+                },
+                {
+                    "attributeCode": "attributes_itemsTitle",
+                    "value": "    FLAT A 161      MARE STREET"
+                },
+                {
+                    "attributeCode": "attributes_premisesPostcode",
+                    "value": "E8 3RH"
+                },
+                {
+                    "attributeCode": "attributes_premisesBlpuClass",
+                    "value": "RD06"
+                }
+            ],
+            "signature": "61d5d2ccccda3c01686c622c"
+        },
+        {
+            "itemId": "5f898d4790478c0067f9ba0a",
+            "designCode": "designs_nlpgPremises",
+            "collection": "Live",
+            "start": "9999-12-31T23:59:59.999Z",
+            "end": "9999-12-31T23:59:59.999Z",
+            "icon": "icon-resource-house",
+            "colour": "#4aa36b",
+            "locked": false,
+            "context": "Customer",
+            "attributes": [
+                {
+                    "attributeCode": "attributes_premisesPrimaryStartNumber",
+                    "value": 159
+                },
+                {
+                    "attributeCode": "attributes_itemsSubtitle",
+                    "value": "E8 3RH"
+                },
+                {
+                    "attributeCode": "attributes_itemsTitle",
+                    "value": "    FLAT 5 159      MARE STREET"
+                },
+                {
+                    "attributeCode": "attributes_premisesPostcode",
+                    "value": "E8 3RH"
+                },
+                {
+                    "attributeCode": "attributes_premisesBlpuClass",
+                    "value": "RD06"
+                }
+            ],
+            "signature": "61d5d331ccda3c01686eb53b"
+        },
+        {
+            "itemId": "5f898d4790478c0067f9ba0b",
+            "designCode": "designs_nlpgPremises",
+            "collection": "Live",
+            "start": "9999-12-31T23:59:59.999Z",
+            "end": "9999-12-31T23:59:59.999Z",
+            "icon": "icon-resource-house",
+            "colour": "#4aa36b",
+            "locked": false,
+            "context": "Customer",
+            "attributes": [
+                {
+                    "attributeCode": "attributes_premisesPrimaryStartNumber",
+                    "value": 159
+                },
+                {
+                    "attributeCode": "attributes_itemsSubtitle",
+                    "value": "E8 3RH"
+                },
+                {
+                    "attributeCode": "attributes_itemsTitle",
+                    "value": "    FLAT 6 159      MARE STREET"
+                },
+                {
+                    "attributeCode": "attributes_premisesPostcode",
+                    "value": "E8 3RH"
+                },
+                {
+                    "attributeCode": "attributes_premisesBlpuClass",
+                    "value": "RD06"
+                }
+            ],
+            "signature": "61d5d331ccda3c01686eb53c"
+        },
+        {
+            "itemId": "5f898d4790478c0067f9ba0c",
+            "designCode": "designs_nlpgPremises",
+            "collection": "Live",
+            "start": "9999-12-31T23:59:59.999Z",
+            "end": "9999-12-31T23:59:59.999Z",
+            "icon": "icon-resource-house",
+            "colour": "#4aa36b",
+            "locked": false,
+            "context": "Customer",
+            "attributes": [
+                {
+                    "attributeCode": "attributes_premisesPrimaryStartNumber",
+                    "value": 159
+                },
+                {
+                    "attributeCode": "attributes_itemsSubtitle",
+                    "value": "E8 3RH"
+                },
+                {
+                    "attributeCode": "attributes_itemsTitle",
+                    "value": "    FLAT 7 159      MARE STREET"
+                },
+                {
+                    "attributeCode": "attributes_premisesPostcode",
+                    "value": "E8 3RH"
+                },
+                {
+                    "attributeCode": "attributes_premisesBlpuClass",
+                    "value": "RD06"
+                }
+            ],
+            "signature": "61d5d331ccda3c01686eb53d"
+        },
+        {
+            "itemId": "5f898d4790478c0067f9ba07",
+            "designCode": "designs_nlpgPremises",
+            "collection": "Live",
+            "start": "9999-12-31T23:59:59.999Z",
+            "end": "9999-12-31T23:59:59.999Z",
+            "icon": "icon-resource-house",
+            "colour": "#4aa36b",
+            "locked": false,
+            "context": "Customer",
+            "attributes": [
+                {
+                    "attributeCode": "attributes_premisesPrimaryStartNumber",
+                    "value": 159
+                },
+                {
+                    "attributeCode": "attributes_itemsSubtitle",
+                    "value": "E8 3RH"
+                },
+                {
+                    "attributeCode": "attributes_itemsTitle",
+                    "value": "    FLAT 2 159      MARE STREET"
+                },
+                {
+                    "attributeCode": "attributes_premisesPostcode",
+                    "value": "E8 3RH"
+                },
+                {
+                    "attributeCode": "attributes_premisesBlpuClass",
+                    "value": "RD06"
+                }
+            ],
+            "signature": "61d5d331ccda3c01686eb538"
+        },
+        {
+            "itemId": "5f898d4790478c0067f9ba09",
+            "designCode": "designs_nlpgPremises",
+            "collection": "Live",
+            "start": "9999-12-31T23:59:59.999Z",
+            "end": "9999-12-31T23:59:59.999Z",
+            "icon": "icon-resource-house",
+            "colour": "#4aa36b",
+            "locked": false,
+            "context": "Customer",
+            "attributes": [
+                {
+                    "attributeCode": "attributes_premisesPrimaryStartNumber",
+                    "value": 159
+                },
+                {
+                    "attributeCode": "attributes_itemsSubtitle",
+                    "value": "E8 3RH"
+                },
+                {
+                    "attributeCode": "attributes_itemsTitle",
+                    "value": "    FLAT 4 159      MARE STREET"
+                },
+                {
+                    "attributeCode": "attributes_premisesPostcode",
+                    "value": "E8 3RH"
+                },
+                {
+                    "attributeCode": "attributes_premisesBlpuClass",
+                    "value": "RD06"
+                }
+            ],
+            "signature": "61d5d331ccda3c01686eb53a"
+        },
+        {
+            "itemId": "5f898d4790478c0067f9ba08",
+            "designCode": "designs_nlpgPremises",
+            "collection": "Live",
+            "start": "9999-12-31T23:59:59.999Z",
+            "end": "9999-12-31T23:59:59.999Z",
+            "icon": "icon-resource-house",
+            "colour": "#4aa36b",
+            "locked": false,
+            "context": "Customer",
+            "attributes": [
+                {
+                    "attributeCode": "attributes_premisesPrimaryStartNumber",
+                    "value": 159
+                },
+                {
+                    "attributeCode": "attributes_itemsSubtitle",
+                    "value": "E8 3RH"
+                },
+                {
+                    "attributeCode": "attributes_itemsTitle",
+                    "value": "    FLAT 3 159      MARE STREET"
+                },
+                {
+                    "attributeCode": "attributes_premisesPostcode",
+                    "value": "E8 3RH"
+                },
+                {
+                    "attributeCode": "attributes_premisesBlpuClass",
+                    "value": "RD06"
+                }
+            ],
+            "signature": "61d5d331ccda3c01686eb539"
+        },
+        {
+            "itemId": "5f898d4790478c0067f9bb0a",
+            "designCode": "designs_nlpgPremises",
+            "collection": "Live",
+            "start": "9999-12-31T23:59:59.999Z",
+            "end": "9999-12-31T23:59:59.999Z",
+            "icon": "icon-resource-house",
+            "colour": "#4aa36b",
+            "locked": false,
+            "context": "Customer",
+            "attributes": [
+                {
+                    "attributeCode": "attributes_premisesPrimaryStartNumber",
+                    "value": 155
+                },
+                {
+                    "attributeCode": "attributes_itemsSubtitle",
+                    "value": "E8 3RH"
+                },
+                {
+                    "attributeCode": "attributes_itemsTitle",
+                    "value": "    FLAT 5 155      MARE STREET"
+                },
+                {
+                    "attributeCode": "attributes_premisesPostcode",
+                    "value": "E8 3RH"
+                },
+                {
+                    "attributeCode": "attributes_premisesBlpuClass",
+                    "value": "RD06"
+                }
+            ],
+            "signature": "61d5d331ccda3c01686eba9d"
+        },
+        {
+            "itemId": "5f898d4790478c0067f9bb09",
+            "designCode": "designs_nlpgPremises",
+            "collection": "Live",
+            "start": "9999-12-31T23:59:59.999Z",
+            "end": "9999-12-31T23:59:59.999Z",
+            "icon": "icon-resource-house",
+            "colour": "#4aa36b",
+            "locked": false,
+            "context": "Customer",
+            "attributes": [
+                {
+                    "attributeCode": "attributes_premisesPrimaryStartNumber",
+                    "value": 155
+                },
+                {
+                    "attributeCode": "attributes_itemsSubtitle",
+                    "value": "E8 3RH"
+                },
+                {
+                    "attributeCode": "attributes_itemsTitle",
+                    "value": "    FLAT 4 155      MARE STREET"
+                },
+                {
+                    "attributeCode": "attributes_premisesPostcode",
+                    "value": "E8 3RH"
+                },
+                {
+                    "attributeCode": "attributes_premisesBlpuClass",
+                    "value": "RD06"
+                }
+            ],
+            "signature": "61d5d331ccda3c01686eba9c"
+        },
+        {
+            "itemId": "5f898d4790478c0067f9bf74",
+            "designCode": "designs_nlpgPremises",
+            "collection": "Live",
+            "start": "9999-12-31T23:59:59.999Z",
+            "end": "9999-12-31T23:59:59.999Z",
+            "icon": "icon-resource-house",
+            "colour": "#4aa36b",
+            "locked": false,
+            "context": "Customer",
+            "attributes": [
+                {
+                    "attributeCode": "attributes_premisesPrimaryStartNumber",
+                    "value": 169
+                },
+                {
+                    "attributeCode": "attributes_itemsSubtitle",
+                    "value": "E8 3RH"
+                },
+                {
+                    "attributeCode": "attributes_itemsTitle",
+                    "value": "    ATM SITE AT GROUND FLOOR 169      MARE STREET"
+                },
+                {
+                    "attributeCode": "attributes_premisesPostcode",
+                    "value": "E8 3RH"
+                },
+                {
+                    "attributeCode": "attributes_premisesBlpuClass",
+                    "value": "CR11"
+                }
+            ],
+            "signature": "61d5d337ccda3c01686edd62"
+        },
+        {
+            "itemId": "5f898d4790478c0067f9c0c5",
+            "designCode": "designs_nlpgPremises",
+            "collection": "Live",
+            "start": "9999-12-31T23:59:59.999Z",
+            "end": "9999-12-31T23:59:59.999Z",
+            "icon": "icon-resource-house",
+            "colour": "#4aa36b",
+            "locked": false,
+            "context": "Customer",
+            "attributes": [
+                {
+                    "attributeCode": "attributes_premisesPrimaryStartNumber",
+                    "value": 155
+                },
+                {
+                    "attributeCode": "attributes_premisesPrimaryStartSuffix",
+                    "value": "A"
+                },
+                {
+                    "attributeCode": "attributes_itemsSubtitle",
+                    "value": "E8 3RH"
+                },
+                {
+                    "attributeCode": "attributes_itemsTitle",
+                    "value": "    COMMERCIAL UNIT 155 A     MARE STREET"
+                },
+                {
+                    "attributeCode": "attributes_premisesPostcode",
+                    "value": "E8 3RH"
+                },
+                {
+                    "attributeCode": "attributes_premisesBlpuClass",
+                    "value": "CR08"
+                }
+            ],
+            "signature": "61d5d33bccda3c01686ef985"
+        },
+        {
+            "itemId": "5f898d4790478c0067f9becb",
+            "designCode": "designs_nlpgPremises",
+            "collection": "Live",
+            "start": "9999-12-31T23:59:59.999Z",
+            "end": "9999-12-31T23:59:59.999Z",
+            "icon": "icon-resource-house",
+            "colour": "#4aa36b",
+            "locked": false,
+            "context": "Customer",
+            "attributes": [
+                {
+                    "attributeCode": "attributes_premisesPrimaryStartNumber",
+                    "value": 159
+                },
+                {
+                    "attributeCode": "attributes_itemsSubtitle",
+                    "value": "E8 3RH"
+                },
+                {
+                    "attributeCode": "attributes_itemsTitle",
+                    "value": "    FLAT 1 159      MARE STREET"
+                },
+                {
+                    "attributeCode": "attributes_premisesPostcode",
+                    "value": "E8 3RH"
+                },
+                {
+                    "attributeCode": "attributes_premisesBlpuClass",
+                    "value": "RD06"
+                }
+            ],
+            "signature": "61d5d337ccda3c01686edcbb"
+        },
+        {
+            "itemId": "5f898d4790478c0067f9d2c6",
+            "designCode": "designs_nlpgPremises",
+            "collection": "Live",
+            "start": "9999-12-31T23:59:59.999Z",
+            "end": "9999-12-31T23:59:59.999Z",
+            "icon": "icon-resource-house",
+            "colour": "#4aa36b",
+            "locked": false,
+            "context": "Customer",
+            "attributes": [
+                {
+                    "attributeCode": "attributes_premisesPrimaryStartNumber",
+                    "value": 141
+                },
+                {
+                    "attributeCode": "attributes_itemsSubtitle",
+                    "value": "E8 3RH"
+                },
+                {
+                    "attributeCode": "attributes_itemsTitle",
+                    "value": "    UNIT 4 141      MARE STREET"
+                },
+                {
+                    "attributeCode": "attributes_premisesPostcode",
+                    "value": "E8 3RH"
+                },
+                {
+                    "attributeCode": "attributes_premisesBlpuClass",
+                    "value": "CO01"
+                }
+            ],
+            "signature": "61d5d357ccda3c01686ff3ca"
+        },
+        {
+            "itemId": "5f898d4790478c0067f9d2c3",
+            "designCode": "designs_nlpgPremises",
+            "collection": "Live",
+            "start": "9999-12-31T23:59:59.999Z",
+            "end": "9999-12-31T23:59:59.999Z",
+            "icon": "icon-resource-house",
+            "colour": "#4aa36b",
+            "locked": false,
+            "context": "Customer",
+            "attributes": [
+                {
+                    "attributeCode": "attributes_premisesPrimaryStartNumber",
+                    "value": 141
+                },
+                {
+                    "attributeCode": "attributes_itemsSubtitle",
+                    "value": "E8 3RH"
+                },
+                {
+                    "attributeCode": "attributes_itemsTitle",
+                    "value": "    UNIT 1 141      MARE STREET"
+                },
+                {
+                    "attributeCode": "attributes_premisesPostcode",
+                    "value": "E8 3RH"
+                },
+                {
+                    "attributeCode": "attributes_premisesBlpuClass",
+                    "value": "CO01"
+                }
+            ],
+            "signature": "61d5d357ccda3c01686ff3c7"
+        },
+        {
+            "itemId": "5f898d4790478c0067f9d2c4",
+            "designCode": "designs_nlpgPremises",
+            "collection": "Live",
+            "start": "9999-12-31T23:59:59.999Z",
+            "end": "9999-12-31T23:59:59.999Z",
+            "icon": "icon-resource-house",
+            "colour": "#4aa36b",
+            "locked": false,
+            "context": "Customer",
+            "attributes": [
+                {
+                    "attributeCode": "attributes_premisesPrimaryStartNumber",
+                    "value": 141
+                },
+                {
+                    "attributeCode": "attributes_itemsSubtitle",
+                    "value": "E8 3RH"
+                },
+                {
+                    "attributeCode": "attributes_itemsTitle",
+                    "value": "    UNIT 2 141      MARE STREET"
+                },
+                {
+                    "attributeCode": "attributes_premisesPostcode",
+                    "value": "E8 3RH"
+                },
+                {
+                    "attributeCode": "attributes_premisesBlpuClass",
+                    "value": "CO01"
+                }
+            ],
+            "signature": "61d5d357ccda3c01686ff3c8"
+        },
+        {
+            "itemId": "5f898d4790478c0067f9d2c5",
+            "designCode": "designs_nlpgPremises",
+            "collection": "Live",
+            "start": "9999-12-31T23:59:59.999Z",
+            "end": "9999-12-31T23:59:59.999Z",
+            "icon": "icon-resource-house",
+            "colour": "#4aa36b",
+            "locked": false,
+            "context": "Customer",
+            "attributes": [
+                {
+                    "attributeCode": "attributes_premisesPrimaryStartNumber",
+                    "value": 141
+                },
+                {
+                    "attributeCode": "attributes_itemsSubtitle",
+                    "value": "E8 3RH"
+                },
+                {
+                    "attributeCode": "attributes_itemsTitle",
+                    "value": "    UNIT 3 141      MARE STREET"
+                },
+                {
+                    "attributeCode": "attributes_premisesPostcode",
+                    "value": "E8 3RH"
+                },
+                {
+                    "attributeCode": "attributes_premisesBlpuClass",
+                    "value": "CO01"
+                }
+            ],
+            "signature": "61d5d357ccda3c01686ff3c9"
+        },
+        {
+            "itemId": "5f898d4790478c0067fa46a9",
+            "designCode": "designs_nlpgPremises",
+            "collection": "Live",
+            "start": "9999-12-31T23:59:59.999Z",
+            "end": "9999-12-31T23:59:59.999Z",
+            "icon": "icon-resource-house",
+            "colour": "#4aa36b",
+            "locked": false,
+            "context": "Customer",
+            "attributes": [
+                {
+                    "attributeCode": "attributes_premisesPrimaryStartNumber",
+                    "value": 123
+                },
+                {
+                    "attributeCode": "attributes_itemsSubtitle",
+                    "value": "E8 3RH"
+                },
+                {
+                    "attributeCode": "attributes_itemsTitle",
+                    "value": "    FLAT 3 123      MARE STREET"
+                },
+                {
+                    "attributeCode": "attributes_premisesPostcode",
+                    "value": "E8 3RH"
+                },
+                {
+                    "attributeCode": "attributes_premisesBlpuClass",
+                    "value": "RD06"
+                }
+            ],
+            "signature": "61d5d459ccda3c01687566de"
+        },
+        {
+            "itemId": "5f898d4790478c0067fa46b4",
+            "designCode": "designs_nlpgPremises",
+            "collection": "Live",
+            "start": "9999-12-31T23:59:59.999Z",
+            "end": "9999-12-31T23:59:59.999Z",
+            "icon": "icon-resource-house",
+            "colour": "#4aa36b",
+            "locked": false,
+            "context": "Customer",
+            "attributes": [
+                {
+                    "attributeCode": "attributes_premisesPrimaryStartNumber",
+                    "value": 175
+                },
+                {
+                    "attributeCode": "attributes_premisesPrimaryStartSuffix",
+                    "value": "A"
+                },
+                {
+                    "attributeCode": "attributes_itemsSubtitle",
+                    "value": "E8 3RH"
+                },
+                {
+                    "attributeCode": "attributes_itemsTitle",
+                    "value": "    FLAT 2 175 A     MARE STREET"
+                },
+                {
+                    "attributeCode": "attributes_premisesPostcode",
+                    "value": "E8 3RH"
+                },
+                {
+                    "attributeCode": "attributes_premisesBlpuClass",
+                    "value": "RD06"
+                }
+            ],
+            "signature": "61d5d459ccda3c01687566e8"
+        },
+        {
+            "itemId": "5f898d4790478c0067fa46ab",
+            "designCode": "designs_nlpgPremises",
+            "collection": "Live",
+            "start": "9999-12-31T23:59:59.999Z",
+            "end": "9999-12-31T23:59:59.999Z",
+            "icon": "icon-resource-house",
+            "colour": "#4aa36b",
+            "locked": false,
+            "context": "Customer",
+            "attributes": [
+                {
+                    "attributeCode": "attributes_premisesPrimaryStartNumber",
+                    "value": 155
+                },
+                {
+                    "attributeCode": "attributes_premisesPrimaryStartSuffix",
+                    "value": "A"
+                },
+                {
+                    "attributeCode": "attributes_itemsSubtitle",
+                    "value": "E8 3RH"
+                },
+                {
+                    "attributeCode": "attributes_itemsTitle",
+                    "value": "    FIRST FLOOR AND SECOND FLOOR FLAT 155 A     MARE STREET"
+                },
+                {
+                    "attributeCode": "attributes_premisesPostcode",
+                    "value": "E8 3RH"
+                },
+                {
+                    "attributeCode": "attributes_premisesBlpuClass",
+                    "value": "RD06"
+                }
+            ],
+            "signature": "61d5d459ccda3c01687566df"
+        },
+        {
+            "itemId": "5f898d4790478c0067fa46aa",
+            "designCode": "designs_nlpgPremises",
+            "collection": "Live",
+            "start": "9999-12-31T23:59:59.999Z",
+            "end": "9999-12-31T23:59:59.999Z",
+            "icon": "icon-resource-house",
+            "colour": "#4aa36b",
+            "locked": false,
+            "context": "Customer",
+            "attributes": [
+                {
+                    "attributeCode": "attributes_premisesPrimaryStartNumber",
+                    "value": 155
+                },
+                {
+                    "attributeCode": "attributes_itemsSubtitle",
+                    "value": "E8 3RH"
+                },
+                {
+                    "attributeCode": "attributes_itemsTitle",
+                    "value": "    FIRST FLOOR FLAT 155      MARE STREET"
+                },
+                {
+                    "attributeCode": "attributes_premisesPostcode",
+                    "value": "E8 3RH"
+                },
+                {
+                    "attributeCode": "attributes_premisesBlpuClass",
+                    "value": "RD06"
+                }
+            ],
+            "signature": "61d5d554ccda3c01687b2479"
+        },
+        {
+            "itemId": "5f898d4790478c0067fa46ae",
+            "designCode": "designs_nlpgPremises",
+            "collection": "Live",
+            "start": "9999-12-31T23:59:59.999Z",
+            "end": "9999-12-31T23:59:59.999Z",
+            "icon": "icon-resource-house",
+            "colour": "#4aa36b",
+            "locked": false,
+            "context": "Customer",
+            "attributes": [
+                {
+                    "attributeCode": "attributes_premisesPrimaryStartNumber",
+                    "value": 167
+                },
+                {
+                    "attributeCode": "attributes_itemsSubtitle",
+                    "value": "E8 3RH"
+                },
+                {
+                    "attributeCode": "attributes_itemsTitle",
+                    "value": "    FIRST FLOOR FLAT 167      MARE STREET"
+                },
+                {
+                    "attributeCode": "attributes_premisesPostcode",
+                    "value": "E8 3RH"
+                },
+                {
+                    "attributeCode": "attributes_premisesBlpuClass",
+                    "value": "RD06"
+                }
+            ],
+            "signature": "61d5d459ccda3c01687566e2"
+        },
+        {
+            "itemId": "5f898d4790478c0067fa46ad",
+            "designCode": "designs_nlpgPremises",
+            "collection": "Live",
+            "start": "9999-12-31T23:59:59.999Z",
+            "end": "9999-12-31T23:59:59.999Z",
+            "icon": "icon-resource-house",
+            "colour": "#4aa36b",
+            "locked": false,
+            "context": "Customer",
+            "attributes": [
+                {
+                    "attributeCode": "attributes_premisesPrimaryStartNumber",
+                    "value": 157
+                },
+                {
+                    "attributeCode": "attributes_itemsSubtitle",
+                    "value": "E8 3RH"
+                },
+                {
+                    "attributeCode": "attributes_itemsTitle",
+                    "value": "    FIRST FLOOR AND SECOND FLOOR FLAT 157      MARE STREET"
+                },
+                {
+                    "attributeCode": "attributes_premisesPostcode",
+                    "value": "E8 3RH"
+                },
+                {
+                    "attributeCode": "attributes_premisesBlpuClass",
+                    "value": "RD06"
+                }
+            ],
+            "signature": "61d5d459ccda3c01687566e1"
+        },
+        {
+            "itemId": "5f898d4790478c0067fa46b0",
+            "designCode": "designs_nlpgPremises",
+            "collection": "Live",
+            "start": "9999-12-31T23:59:59.999Z",
+            "end": "9999-12-31T23:59:59.999Z",
+            "icon": "icon-resource-house",
+            "colour": "#4aa36b",
+            "locked": false,
+            "context": "Customer",
+            "attributes": [
+                {
+                    "attributeCode": "attributes_premisesPrimaryStartNumber",
+                    "value": 169
+                },
+                {
+                    "attributeCode": "attributes_premisesPrimaryStartSuffix",
+                    "value": "A"
+                },
+                {
+                    "attributeCode": "attributes_itemsSubtitle",
+                    "value": "E8 3RH"
+                },
+                {
+                    "attributeCode": "attributes_itemsTitle",
+                    "value": "    FIRST FLOOR FRONT FLAT 169 A     MARE STREET"
+                },
+                {
+                    "attributeCode": "attributes_premisesPostcode",
+                    "value": "E8 3RH"
+                },
+                {
+                    "attributeCode": "attributes_premisesBlpuClass",
+                    "value": "RD06"
+                }
+            ],
+            "signature": "61d5d459ccda3c01687566e4"
+        },
+        {
+            "itemId": "5f898d4790478c0067fa46b1",
+            "designCode": "designs_nlpgPremises",
+            "collection": "Live",
+            "start": "9999-12-31T23:59:59.999Z",
+            "end": "9999-12-31T23:59:59.999Z",
+            "icon": "icon-resource-house",
+            "colour": "#4aa36b",
+            "locked": false,
+            "context": "Customer",
+            "attributes": [
+                {
+                    "attributeCode": "attributes_premisesPrimaryStartNumber",
+                    "value": 169
+                },
+                {
+                    "attributeCode": "attributes_itemsSubtitle",
+                    "value": "E8 3RH"
+                },
+                {
+                    "attributeCode": "attributes_itemsTitle",
+                    "value": "    FIRST FLOOR REAR FLAT 169      MARE STREET"
+                },
+                {
+                    "attributeCode": "attributes_premisesPostcode",
+                    "value": "E8 3RH"
+                },
+                {
+                    "attributeCode": "attributes_premisesBlpuClass",
+                    "value": "RD06"
+                }
+            ],
+            "signature": "61d5d459ccda3c01687566e5"
+        },
+        {
+            "itemId": "5f898d4790478c0067fa46ac",
+            "designCode": "designs_nlpgPremises",
+            "collection": "Live",
+            "start": "9999-12-31T23:59:59.999Z",
+            "end": "9999-12-31T23:59:59.999Z",
+            "icon": "icon-resource-house",
+            "colour": "#4aa36b",
+            "locked": false,
+            "context": "Customer",
+            "attributes": [
+                {
+                    "attributeCode": "attributes_premisesPrimaryStartNumber",
+                    "value": 157
+                },
+                {
+                    "attributeCode": "attributes_premisesPrimaryStartSuffix",
+                    "value": "B"
+                },
+                {
+                    "attributeCode": "attributes_itemsSubtitle",
+                    "value": "E8 3RH"
+                },
+                {
+                    "attributeCode": "attributes_itemsTitle",
+                    "value": "    FIRST FLOOR FLAT 157 B     MARE STREET"
+                },
+                {
+                    "attributeCode": "attributes_premisesPostcode",
+                    "value": "E8 3RH"
+                },
+                {
+                    "attributeCode": "attributes_premisesBlpuClass",
+                    "value": "RD06"
+                }
+            ],
+            "signature": "61d5d459ccda3c01687566e0"
+        },
+        {
+            "itemId": "5f898d4790478c0067fa46b3",
+            "designCode": "designs_nlpgPremises",
+            "collection": "Live",
+            "start": "9999-12-31T23:59:59.999Z",
+            "end": "9999-12-31T23:59:59.999Z",
+            "icon": "icon-resource-house",
+            "colour": "#4aa36b",
+            "locked": false,
+            "context": "Customer",
+            "attributes": [
+                {
+                    "attributeCode": "attributes_premisesPrimaryStartNumber",
+                    "value": 175
+                },
+                {
+                    "attributeCode": "attributes_premisesPrimaryStartSuffix",
+                    "value": "A"
+                },
+                {
+                    "attributeCode": "attributes_itemsSubtitle",
+                    "value": "E8 3RH"
+                },
+                {
+                    "attributeCode": "attributes_itemsTitle",
+                    "value": "    FLAT 1 175 A     MARE STREET"
+                },
+                {
+                    "attributeCode": "attributes_premisesPostcode",
+                    "value": "E8 3RH"
+                },
+                {
+                    "attributeCode": "attributes_premisesBlpuClass",
+                    "value": "RD06"
+                }
+            ],
+            "signature": "61d5d459ccda3c01687566e7"
+        },
+        {
+            "itemId": "5f898d4790478c0067fa46af",
+            "designCode": "designs_nlpgPremises",
+            "collection": "Live",
+            "start": "9999-12-31T23:59:59.999Z",
+            "end": "9999-12-31T23:59:59.999Z",
+            "icon": "icon-resource-house",
+            "colour": "#4aa36b",
+            "locked": false,
+            "context": "Customer",
+            "attributes": [
+                {
+                    "attributeCode": "attributes_premisesPrimaryStartNumber",
+                    "value": 167
+                },
+                {
+                    "attributeCode": "attributes_itemsSubtitle",
+                    "value": "E8 3RH"
+                },
+                {
+                    "attributeCode": "attributes_itemsTitle",
+                    "value": "    SECOND FLOOR FLAT 167      MARE STREET"
+                },
+                {
+                    "attributeCode": "attributes_premisesPostcode",
+                    "value": "E8 3RH"
+                },
+                {
+                    "attributeCode": "attributes_premisesBlpuClass",
+                    "value": "RD06"
+                }
+            ],
+            "signature": "61d5d459ccda3c01687566e3"
+        },
+        {
+            "itemId": "5f898d4790478c0067fa46b2",
+            "designCode": "designs_nlpgPremises",
+            "collection": "Live",
+            "start": "9999-12-31T23:59:59.999Z",
+            "end": "9999-12-31T23:59:59.999Z",
+            "icon": "icon-resource-house",
+            "colour": "#4aa36b",
+            "locked": false,
+            "context": "Customer",
+            "attributes": [
+                {
+                    "attributeCode": "attributes_premisesPrimaryStartNumber",
+                    "value": 169
+                },
+                {
+                    "attributeCode": "attributes_premisesPrimaryStartSuffix",
+                    "value": "A"
+                },
+                {
+                    "attributeCode": "attributes_itemsSubtitle",
+                    "value": "E8 3RH"
+                },
+                {
+                    "attributeCode": "attributes_itemsTitle",
+                    "value": "    SECOND FLOOR FLAT 169 A     MARE STREET"
+                },
+                {
+                    "attributeCode": "attributes_premisesPostcode",
+                    "value": "E8 3RH"
+                },
+                {
+                    "attributeCode": "attributes_premisesBlpuClass",
+                    "value": "RD06"
+                }
+            ],
+            "signature": "61d5d459ccda3c01687566e6"
+        },
+        {
+            "itemId": "5f898d4790478c0067fa4701",
+            "designCode": "designs_nlpgPremises",
+            "collection": "Live",
+            "start": "9999-12-31T23:59:59.999Z",
+            "end": "9999-12-31T23:59:59.999Z",
+            "icon": "icon-resource-house",
+            "colour": "#4aa36b",
+            "locked": false,
+            "context": "Customer",
+            "attributes": [
+                {
+                    "attributeCode": "attributes_premisesPrimaryStartNumber",
+                    "value": 171
+                },
+                {
+                    "attributeCode": "attributes_premisesPrimaryEndNumber",
+                    "value": 173
+                },
+                {
+                    "attributeCode": "attributes_itemsSubtitle",
+                    "value": "E8 3RH"
+                },
+                {
+                    "attributeCode": "attributes_itemsTitle",
+                    "value": "    FLAT 4 171  173    MARE STREET"
+                },
+                {
+                    "attributeCode": "attributes_premisesPostcode",
+                    "value": "E8 3RH"
+                },
+                {
+                    "attributeCode": "attributes_premisesBlpuClass",
+                    "value": "RD06"
+                }
+            ],
+            "signature": "61d5d459ccda3c0168756735"
+        },
+        {
+            "itemId": "5f898d4790478c0067fa4702",
+            "designCode": "designs_nlpgPremises",
+            "collection": "Live",
+            "start": "9999-12-31T23:59:59.999Z",
+            "end": "9999-12-31T23:59:59.999Z",
+            "icon": "icon-resource-house",
+            "colour": "#4aa36b",
+            "locked": false,
+            "context": "Customer",
+            "attributes": [
+                {
+                    "attributeCode": "attributes_premisesPrimaryStartNumber",
+                    "value": 171
+                },
+                {
+                    "attributeCode": "attributes_premisesPrimaryEndNumber",
+                    "value": 173
+                },
+                {
+                    "attributeCode": "attributes_itemsSubtitle",
+                    "value": "E8 3RH"
+                },
+                {
+                    "attributeCode": "attributes_itemsTitle",
+                    "value": "    FLAT 5 171  173    MARE STREET"
+                },
+                {
+                    "attributeCode": "attributes_premisesPostcode",
+                    "value": "E8 3RH"
+                },
+                {
+                    "attributeCode": "attributes_premisesBlpuClass",
+                    "value": "RD06"
+                }
+            ],
+            "signature": "61d5d459ccda3c0168756736"
+        },
+        {
+            "itemId": "5f898d4790478c0067fa4703",
+            "designCode": "designs_nlpgPremises",
+            "collection": "Live",
+            "start": "9999-12-31T23:59:59.999Z",
+            "end": "9999-12-31T23:59:59.999Z",
+            "icon": "icon-resource-house",
+            "colour": "#4aa36b",
+            "locked": false,
+            "context": "Customer",
+            "attributes": [
+                {
+                    "attributeCode": "attributes_premisesPrimaryStartNumber",
+                    "value": 171
+                },
+                {
+                    "attributeCode": "attributes_premisesPrimaryEndNumber",
+                    "value": 173
+                },
+                {
+                    "attributeCode": "attributes_itemsSubtitle",
+                    "value": "E8 3RH"
+                },
+                {
+                    "attributeCode": "attributes_itemsTitle",
+                    "value": "    FLAT 6 171  173    MARE STREET"
+                },
+                {
+                    "attributeCode": "attributes_premisesPostcode",
+                    "value": "E8 3RH"
+                },
+                {
+                    "attributeCode": "attributes_premisesBlpuClass",
+                    "value": "RD06"
+                }
+            ],
+            "signature": "61d5d459ccda3c0168756737"
+        },
+        {
+            "itemId": "5f898d4790478c0067fa4700",
+            "designCode": "designs_nlpgPremises",
+            "collection": "Live",
+            "start": "9999-12-31T23:59:59.999Z",
+            "end": "9999-12-31T23:59:59.999Z",
+            "icon": "icon-resource-house",
+            "colour": "#4aa36b",
+            "locked": false,
+            "context": "Customer",
+            "attributes": [
+                {
+                    "attributeCode": "attributes_premisesPrimaryStartNumber",
+                    "value": 171
+                },
+                {
+                    "attributeCode": "attributes_premisesPrimaryEndNumber",
+                    "value": 173
+                },
+                {
+                    "attributeCode": "attributes_itemsSubtitle",
+                    "value": "E8 3RH"
+                },
+                {
+                    "attributeCode": "attributes_itemsTitle",
+                    "value": "    FLAT 3 171  173    MARE STREET"
+                },
+                {
+                    "attributeCode": "attributes_premisesPostcode",
+                    "value": "E8 3RH"
+                },
+                {
+                    "attributeCode": "attributes_premisesBlpuClass",
+                    "value": "RD06"
+                }
+            ],
+            "signature": "61d5d459ccda3c0168756734"
+        },
+        {
+            "itemId": "5f898d4790478c0067fa46fe",
+            "designCode": "designs_nlpgPremises",
+            "collection": "Live",
+            "start": "9999-12-31T23:59:59.999Z",
+            "end": "9999-12-31T23:59:59.999Z",
+            "icon": "icon-resource-house",
+            "colour": "#4aa36b",
+            "locked": false,
+            "context": "Customer",
+            "attributes": [
+                {
+                    "attributeCode": "attributes_premisesPrimaryStartNumber",
+                    "value": 171
+                },
+                {
+                    "attributeCode": "attributes_premisesPrimaryEndNumber",
+                    "value": 173
+                },
+                {
+                    "attributeCode": "attributes_itemsSubtitle",
+                    "value": "E8 3RH"
+                },
+                {
+                    "attributeCode": "attributes_itemsTitle",
+                    "value": "    FLAT 1 171  173    MARE STREET"
+                },
+                {
+                    "attributeCode": "attributes_premisesPostcode",
+                    "value": "E8 3RH"
+                },
+                {
+                    "attributeCode": "attributes_premisesBlpuClass",
+                    "value": "RD06"
+                }
+            ],
+            "signature": "61d5d459ccda3c0168756732"
+        },
+        {
+            "itemId": "5f898d4790478c0067fa46ff",
+            "designCode": "designs_nlpgPremises",
+            "collection": "Live",
+            "start": "9999-12-31T23:59:59.999Z",
+            "end": "9999-12-31T23:59:59.999Z",
+            "icon": "icon-resource-house",
+            "colour": "#4aa36b",
+            "locked": false,
+            "context": "Customer",
+            "attributes": [
+                {
+                    "attributeCode": "attributes_premisesPrimaryStartNumber",
+                    "value": 171
+                },
+                {
+                    "attributeCode": "attributes_premisesPrimaryEndNumber",
+                    "value": 173
+                },
+                {
+                    "attributeCode": "attributes_itemsSubtitle",
+                    "value": "E8 3RH"
+                },
+                {
+                    "attributeCode": "attributes_itemsTitle",
+                    "value": "    FLAT 2 171  173    MARE STREET"
+                },
+                {
+                    "attributeCode": "attributes_premisesPostcode",
+                    "value": "E8 3RH"
+                },
+                {
+                    "attributeCode": "attributes_premisesBlpuClass",
+                    "value": "RD06"
+                }
+            ],
+            "signature": "61d5d459ccda3c0168756733"
+        },
+        {
+            "itemId": "5f898d4790478c0067faaf01",
+            "designCode": "designs_nlpgPremises",
+            "collection": "Live",
+            "start": "9999-12-31T23:59:59.999Z",
+            "end": "9999-12-31T23:59:59.999Z",
+            "icon": "icon-resource-house",
+            "colour": "#4aa36b",
+            "locked": false,
+            "context": "Customer",
+            "attributes": [
+                {
+                    "attributeCode": "attributes_premisesPrimaryStartNumber",
+                    "value": 171
+                },
+                {
+                    "attributeCode": "attributes_itemsSubtitle",
+                    "value": "E8 3RH"
+                },
+                {
+                    "attributeCode": "attributes_itemsTitle",
+                    "value": "    BASEMENT AND GROUND FLOOR 171      MARE STREET"
+                },
+                {
+                    "attributeCode": "attributes_premisesPostcode",
+                    "value": "E8 3RH"
+                },
+                {
+                    "attributeCode": "attributes_premisesBlpuClass",
+                    "value": "CR07"
+                }
+            ],
+            "signature": "61d5d521ccda3c01687a0ecd"
+        },
+        {
+            "itemId": "5f898d4790478c0067faaf00",
+            "designCode": "designs_nlpgPremises",
+            "collection": "Live",
+            "start": "9999-12-31T23:59:59.999Z",
+            "end": "9999-12-31T23:59:59.999Z",
+            "icon": "icon-resource-house",
+            "colour": "#4aa36b",
+            "locked": false,
+            "context": "Customer",
+            "attributes": [
+                {
+                    "attributeCode": "attributes_premisesPrimaryStartNumber",
+                    "value": 169
+                },
+                {
+                    "attributeCode": "attributes_itemsSubtitle",
+                    "value": "E8 3RH"
+                },
+                {
+                    "attributeCode": "attributes_itemsTitle",
+                    "value": "    BASEMENT AND GROUND FLOOR 169      MARE STREET"
+                },
+                {
+                    "attributeCode": "attributes_premisesPostcode",
+                    "value": "E8 3RH"
+                },
+                {
+                    "attributeCode": "attributes_premisesBlpuClass",
+                    "value": "CR08"
+                }
+            ],
+            "signature": "61d5d521ccda3c01687a0ecc"
+        },
+        {
+            "itemId": "5f898d4790478c0067faaeff",
+            "designCode": "designs_nlpgPremises",
+            "collection": "Live",
+            "start": "9999-12-31T23:59:59.999Z",
+            "end": "9999-12-31T23:59:59.999Z",
+            "icon": "icon-resource-house",
+            "colour": "#4aa36b",
+            "locked": false,
+            "context": "Customer",
+            "attributes": [
+                {
+                    "attributeCode": "attributes_premisesPrimaryStartNumber",
+                    "value": 167
+                },
+                {
+                    "attributeCode": "attributes_itemsSubtitle",
+                    "value": "E8 3RH"
+                },
+                {
+                    "attributeCode": "attributes_itemsTitle",
+                    "value": "    BASEMENT AND GROUND FLOOR 167      MARE STREET"
+                },
+                {
+                    "attributeCode": "attributes_premisesPostcode",
+                    "value": "E8 3RH"
+                },
+                {
+                    "attributeCode": "attributes_premisesBlpuClass",
+                    "value": "CR09"
+                }
+            ],
+            "signature": "61d5d521ccda3c01687a0ecb"
+        },
+        {
+            "itemId": "5f898d4790478c0067faaefe",
+            "designCode": "designs_nlpgPremises",
+            "collection": "Live",
+            "start": "9999-12-31T23:59:59.999Z",
+            "end": "9999-12-31T23:59:59.999Z",
+            "icon": "icon-resource-house",
+            "colour": "#4aa36b",
+            "locked": false,
+            "context": "Customer",
+            "attributes": [
+                {
+                    "attributeCode": "attributes_premisesPrimaryStartNumber",
+                    "value": 157
+                },
+                {
+                    "attributeCode": "attributes_itemsSubtitle",
+                    "value": "E8 3RH"
+                },
+                {
+                    "attributeCode": "attributes_itemsTitle",
+                    "value": "    BASEMENT AND GROUND FLOOR 157      MARE STREET"
+                },
+                {
+                    "attributeCode": "attributes_premisesPostcode",
+                    "value": "E8 3RH"
+                },
+                {
+                    "attributeCode": "attributes_premisesBlpuClass",
+                    "value": "CM02"
+                }
+            ],
+            "signature": "61d5d521ccda3c01687a0eca"
+        },
+        {
+            "itemId": "5f898d4790478c0067faaf02",
+            "designCode": "designs_nlpgPremises",
+            "collection": "Live",
+            "start": "9999-12-31T23:59:59.999Z",
+            "end": "9999-12-31T23:59:59.999Z",
+            "icon": "icon-resource-house",
+            "colour": "#4aa36b",
+            "locked": false,
+            "context": "Customer",
+            "attributes": [
+                {
+                    "attributeCode": "attributes_premisesPrimaryStartNumber",
+                    "value": 177
+                },
+                {
+                    "attributeCode": "attributes_itemsSubtitle",
+                    "value": "E8 3RH"
+                },
+                {
+                    "attributeCode": "attributes_itemsTitle",
+                    "value": "    BASEMENT AND GROUND FLOOR 177      MARE STREET"
+                },
+                {
+                    "attributeCode": "attributes_premisesPostcode",
+                    "value": "E8 3RH"
+                },
+                {
+                    "attributeCode": "attributes_premisesBlpuClass",
+                    "value": "CR08"
+                }
+            ],
+            "signature": "61d5d521ccda3c01687a0ece"
+        },
+        {
+            "itemId": "5f898d4790478c0067fab4cc",
+            "designCode": "designs_nlpgPremises",
+            "collection": "Live",
+            "start": "9999-12-31T23:59:59.999Z",
+            "end": "9999-12-31T23:59:59.999Z",
+            "icon": "icon-resource-house",
+            "colour": "#4aa36b",
+            "locked": false,
+            "context": "Customer",
+            "attributes": [
+                {
+                    "attributeCode": "attributes_premisesPrimaryStartNumber",
+                    "value": 163
+                },
+                {
+                    "attributeCode": "attributes_itemsSubtitle",
+                    "value": "E8 3RH"
+                },
+                {
+                    "attributeCode": "attributes_itemsTitle",
+                    "value": "    FLAT A 163      MARE STREET"
+                },
+                {
+                    "attributeCode": "attributes_premisesPostcode",
+                    "value": "E8 3RH"
+                },
+                {
+                    "attributeCode": "attributes_premisesBlpuClass",
+                    "value": "RH02"
+                }
+            ],
+            "signature": "61d5d537ccda3c01687a4f6f"
+        },
+        {
+            "itemId": "6169b12ab57ff20167b3de25",
+            "designCode": "designs_nlpgPremises",
+            "collection": "Live",
+            "start": "9999-12-31T23:59:59.999Z",
+            "end": "9999-12-31T23:59:59.999Z",
+            "icon": "icon-resource-house",
+            "colour": "#4aa36b",
+            "locked": false,
+            "context": "Customer",
+            "attributes": [
+                {
+                    "attributeCode": "attributes_premisesPrimaryStartNumber",
+                    "value": 125
+                },
+                {
+                    "attributeCode": "attributes_premisesPrimaryEndNumber",
+                    "value": 127
+                },
+                {
+                    "attributeCode": "attributes_premisesPostcode",
+                    "value": "E8 3RH"
+                },
+                {
+                    "attributeCode": "attributes_premisesBlpuClass",
+                    "value": "CR07"
+                },
+                {
+                    "attributeCode": "attributes_itemsTitle",
+                    "value": "    GROUND FLOOR 125  127    MARE STREET"
+                },
+                {
+                    "attributeCode": "attributes_itemsSubtitle",
+                    "value": "E8 3RH"
+                }
+            ],
+            "signature": "61d5d54eccda3c01687af7b4"
+        }
+    ]
+}

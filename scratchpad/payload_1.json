@@ -1,0 +1,48 @@
+{
+    "type": "Query",
+    "aqs": {
+        "properties": {
+            "dodiCode": "designs_nlpgPremises",
+            "collectionCode": "Live",
+            "attributes": [
+                "attributes_itemsTitle",
+                "attributes_itemsSubtitle",
+                "attributes_premisesPrimaryStartNumber",
+                "attributes_premisesPrimaryStartSuffix",
+                "attributes_premisesPostcode",
+                "attributes_premisesPrimaryEndNumber",
+                "attributes_premisesPrimaryEndSuffix",
+                "attributes_premisesPrimaryText",
+                "attributes_premisesBlpuClass"
+            ]
+        },
+        "children": [
+            {
+                "type": "Equals",
+                "properties": {
+                    "__dataExplorerFilter": "attributes_premisesPostcode"
+                },
+                "children": [
+                    {
+                        "type": "Attribute",
+                        "properties": {
+                            "attributeCode": "attributes_premisesPostcode",
+                            "value": []
+                        },
+                        "children": []
+                    },
+                    {
+                        "type": "String",
+                        "properties": {
+                            "attributeCode": "",
+                            "value": [
+                                ""
+                            ]
+                        },
+                        "children": []
+                    }
+                ]
+            }
+        ]
+    }
+}
