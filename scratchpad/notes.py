@@ -120,12 +120,12 @@ Now, we'll ask the user to verify which is their address using a selectable list
 def user_has_not_found_address(cleaned_results=cleaned_results):
     
     print('''
-    Type the letter next to your address, i.e. "a", "b" and hit ENTER:
+Type the letter next to your address, i.e. "a", "b" and hit ENTER:
     ''')
 
     cleaned_results_dict = {}
 
-    for num, r in zip(list(range(1, len(cleaned_results) + 1)), cleaned_results):
+    for r, num in zip(cleaned_results, list(range(1, len(cleaned_results) + 1))):
         cleaned_results_dict[num] = r
         address = re.sub('[ ]{2,}',' ', r['attributes']['attributes_itemsTitle'].strip().title())
         print(f'{Fore.RED}({num}){Fore.RESET} {address}')
@@ -172,3 +172,4 @@ if not len(candidates) == 0:  # i.e. there is at least one candidate
 
 else:
     user_selection = user_has_not_found_address()
+    

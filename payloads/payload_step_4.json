@@ -1,0 +1,36 @@
+{
+    "type": "Query",
+    "aqs": {
+        "properties": {
+            "dodiCode": "designs_scheduleCode_5f8d5eac8dae040066c53c8c",
+            "attributes": [
+                "attributes_scheduleCodeCode_5f8d5f3f0e567e0066100ee7",
+                "attributes_scheduleCodeName_5f8d5f052802f700676fb147",
+                "attributes_scheduleCodeWorkflowID_5f8dbfdce27d98006789b4ec"
+            ]
+        },
+        "children": [
+            {
+                "type": "Equals",
+                "children": [
+                    {
+                        "type": "Attribute",
+                        "properties": {
+                            "attributeCode": "attributes_assetGroupsAssets",
+                            "path": "root^Template:attributes_wasteRoundsScheduleCode_5f8de8de8dae040066c59dae.Template:attributes_projectsTasks^Live:attributes_tasksAssignableTasks<designInterfaces_assetGroups>",
+                            "value": []
+                        }
+                    },
+                    {
+                        "type": "AlloyId",
+                        "properties": {
+                            "value": [
+                                "REPLACE_ME!"
+                            ]
+                        }
+                    }
+                ]
+            }
+        ]
+    }
+}
