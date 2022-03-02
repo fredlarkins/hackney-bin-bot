@@ -15,6 +15,10 @@ import requests
 import json
 import sys
 import re
+from string import ascii_lowercase
+import colorama
+from colorama import Fore
+colorama.init(autoreset=True)
 
 
 # creating a re-useable session object that we'll use throughout the script
@@ -49,7 +53,7 @@ def convert_to_dict(list_of_dictionaries):
 
 
 # ---------- Asking the user for their postcode ---------- #
-postcode = input('Enter your postcode > ').lower().strip()
+postcode = input('\nEnter your postcode > ').lower().strip()
 
 # cleaning the user's input - making sure there is a space in the correct place (as the alloy app query service requires)
 if not ' ' in postcode:
@@ -99,3 +103,47 @@ for n in range(1, 4):
         )
 
         address_data.append(result)
+
+# if the API call returns no addresses...
+if len(address_data) == 0:
+    print(f'\nNo addresses in Hackney found for {postcode.upper()} - try again!')
+    sys.exit()
+
+'''
+We want to display a list of selectable options to the user like this:
+
+    (a) 123 Baker Street
+    (b) 124 Baker Street
+
+Therefore, we'll use a list of letter that the user can type into the terminal.
+
+We will have to deal with the situation where the list of addresses exceeds 26.
+'''
+
+# letter of the alphabet
+letters = list(ascii_lowercase)
+
+# our first conditional: list of addresses is < letters of alphabet
+if len(address_data) < len(letters):
+    print('\nSelect your address from the list below:')
+    
+    selection_options = dict(zip(letters, address_data))
+
+    for letter, option in selection_options.items():
+        
+        # formatting the output in fancy letters
+        print(f'{Fore.RED}({letter}){Fore.RESET} {option["attributes"]["attributes_itemsTitle"]}')
+    
+    user_selection = input(f'\nType the letter - {Fore.RED}a{Fore.RESET}, {Fore.RED}b{Fore.RESET}, etc - next to your address and hit ENTER > ')
+    address = selection_options[user_selection]
+
+
+
+
+
+# # writing the user's address details to a json file
+# with open('address_details.json', 'w') as f:
+#     json.dump(address, f)
+
+# # confirmation message to use
+# print(f'\nThank you! Checking bin collection dates for {Fore.GREEN}{address["attributes"]["attributes_itemsTitle"]}...')
