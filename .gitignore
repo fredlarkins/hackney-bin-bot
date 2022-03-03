@@ -1,5 +1,8 @@
 # Project specific files/folders to ignore
 # scratchpad
+venv/
+address_details.json
+# *.todo
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
