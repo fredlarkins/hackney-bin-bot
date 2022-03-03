@@ -1,5 +1,5 @@
 # Project specific files/folders to ignore
-scratchpad
+scratchpad/
 venv
 address_details.json
 *.todo
