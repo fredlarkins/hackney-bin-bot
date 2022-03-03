@@ -1,8 +1,10 @@
 check-bins.py:
     ✔ the if statement on line 180 (i.e. no collection available) @done (3/3/2022, 11:55:38 AM)
     ✔ change the postcode and user selection options back to user input (rather than hard coded for testing) @high @done (3/3/2022, 2:29:29 PM)
-    ☐ use async requests for the chained series of requests? I.e. steps 3, 4, 5 @low 
-
 
 other jobs:
-    
+    ☐ script for registering yagmail credentials
+    ☐ write a bash script to run the check for new bins every week?
+    ☐ figure out how to send emails the day before collection is due
+        - go off next collection date?
+        - automate the boring stuff might have the answer?

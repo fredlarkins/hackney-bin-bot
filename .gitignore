@@ -1,8 +1,12 @@
 # Project specific files/folders to ignore
-# scratchpad
-venv/
+scratchpad
+venv
 address_details.json
-# *.todo
+*.todo
+*_copy.py
+*_old.py
+bin_collection_data.json
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
