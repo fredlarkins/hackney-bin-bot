@@ -7,7 +7,6 @@ address_details.json
 *_old.py
 bin_collection_data.json
 
-
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
