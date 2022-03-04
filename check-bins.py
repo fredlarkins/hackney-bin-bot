@@ -8,7 +8,7 @@ tl;dr:
 - Write that data to a file
 
 See explainer.md for a detailed explanation of what's going on. 
-    '''
+'''
 
 from pathlib import Path
 
@@ -121,8 +121,9 @@ for service in available_services.keys():
     )
 
     timetable_data = q.json()['workflow']['workflow']['trigger']['dates']
-
-    available_services[service]['timetable'] = timetable_data
+    
+    # there is a useless time-of-the-day value on every date that we don't need (bins are collected in the morning)
+    available_services[service]['timetable'] = [date.split('T')[0] for date in timetable_data]
 
 
 '''
