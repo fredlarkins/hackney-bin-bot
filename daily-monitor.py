@@ -9,6 +9,9 @@ import json
 from datetime import datetime as dt
 from pathlib import Path
 import sys
+import os
+from dotenv import load_dotenv
+import yagmail
 
 # this script will only work if the user has first run through the check-bins.py flow and declared their address
 if not Path('bin_collection_data.json').exists():
@@ -22,7 +25,7 @@ with open('bin_collection_data.json') as f:
 # saving today's date to a variable
 today = dt.today().date()
 
-# emoji equivalents of the bin collections for the email that'll be sent:
+# emoji equivalents of the bin collections (for the email contents):
 emojis = {
     'Recycling Sack': '♻️',
     'Food Caddy (Small)': '🍔',
@@ -49,11 +52,46 @@ for service in collection_data.keys():
 
 
 if collection_is_due_tomorrow:
-    print([emojis[bin] for bin in collection_is_due_tomorrow])
+
+    # crafting our subject line for our email
+    if len(collection_is_due_tomorrow) == 1:
+        subject_line = f'{emojis[collection_is_due_tomorrow[0]]} due tomorrow'
+    
+    else:
+        subject_line = f'{" ".join([emojis[bin] for bin in collection_is_due_tomorrow[:-1]])} and {emojis[collection_is_due_tomorrow[-1]]} due tomorrow'
+
+    message = f"""
+Beep boop! I've detected the following bins are due tomorrow:
+
+++BINS_TO_COLLECT++
+
+Thanks from Hackney Bin Bot 🤖
+                """
+
+    bins_to_collect = '\n'.join([f'{emojis[bin]} {bin}' for bin in collection_is_due_tomorrow])
+    
+    message = message.replace('++BINS_TO_COLLECT++', bins_to_collect)
+
+    # loading credentials to send the reminder email
+    load_dotenv()
+    username = os.getenv('USERNAME')
+    password = os.getenv('PASSWORD')
+    recipients = [email for email in os.getenv('RECIPIENTS').split(',') if email]
+
+    # instantiating a yagmail SMTP object to send the email
+    yag = yagmail.SMTP(
+        username,
+        password
+    )
+
+    # sending the email with subject and contents from above
+    yag.send(
+        to=recipients,
+        subject=subject_line,
+        contents=message
+    )
 
 else:
     print('Nothing is due tomorrow.')
-
-
 
 
