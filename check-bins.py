@@ -6,12 +6,13 @@ tl;dr:
 - Check the waste collection services available for that address;
 - Check the collection days for those services;
 - Write that data to a file
+- It'll also ask you to register your gmail credentials with yagmail for the sending of emails
 
 See explainer.md for a detailed explanation of what's going on. 
 '''
 
 from pathlib import Path
-
+from dotenv import set_key
 import colorama
 import requests
 from colorama import Fore
@@ -134,3 +135,29 @@ with open('bin_collection_data.json', 'w') as f:
     json.dump(available_services, f)
 
 print('\nDone.')
+
+
+# finally, asking the user to provide their email credentials and email recipients, which will be saved in a dotenv file
+if not Path('.env').exists():
+    gmail_info = {}
+    
+    gmail_info['USERNAME'] = input('\nWhat is your Gmail username? > ').strip()
+    
+    # also writing this to a .yagmail file in the home directory of the user's machine
+    with open(f'{Path.home()}/.yagmail', 'w') as y:
+        y.write(gmail_info['USERNAME'])
+    
+    gmail_info['PASSWORD'] = input('\nWhat is your password? > ').strip()
+
+    gmail_info['RECIPIENTS'] = input('\nPlease enter email recipients (comma separated if more than one) > ').replace(' ', '').strip()
+
+    # writing these values to a .env file
+    with open('.env', 'w') as e:
+        for k, v in gmail_info.items():
+            set_key(
+                dotenv_path='.env',
+                key_to_set=k,
+                value_to_set=v
+            )
+    
+    print('\nThanks for the info!')
