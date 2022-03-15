@@ -3,12 +3,16 @@ check-bins.py:
     ✔ change the postcode and user selection options back to user input (rather than hard coded for testing) @high @done (3/3/2022, 2:29:29 PM)
 
 other jobs:
-    ☐ script for registering yagmail credentials
+    ✔ script for registering yagmail credentials @done (14/03/2022, 21:21:27) - yagmail isn't working for some reason
     ☐ write a bash script to run the check for new bins every week?
-    ☐ figure out how to send emails the day before collection is due
-        - go off next collection date?
-        - automate the boring stuff might have the answer?
-    ☐ Create a gui for selecting your address? (tkinter / pyeasygui?)
+    ✔ figure out how to send emails the day before collection is due @done (14/03/2022, 17:40:45)
+        - SOLVED: run the script every day, looking to see if collection is due the following day
+
+sending emails:
+    ✔ look into other ways of sending emails @done (15/03/2022, 17:34:13)
+
+logging:
+    ☐ Some form of logging system? @low 
     
 
 
