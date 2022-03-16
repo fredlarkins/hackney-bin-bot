@@ -137,19 +137,19 @@ with open('bin_collection_data.json', 'w') as f:
 print('\nDone.')
 
 
-# finally, asking the user to provide their email credentials and email recipients, which will be saved in a dotenv file
+# asking the user to provide their email credentials and email recipients, which will be saved in a dotenv file
 if not Path('.env').exists():
     gmail_info = {}
     
-    gmail_info['USERNAME'] = input('\nWhat is your Gmail username? > ').strip()
+    gmail_info['USERNAME'] = input('\nWhat is your dummy Gmail username? > ').strip()
     
     # also writing this to a .yagmail file in the home directory of the user's machine
     with open(f'{Path.home()}/.yagmail', 'w') as y:
         y.write(gmail_info['USERNAME'])
     
-    gmail_info['PASSWORD'] = input('\nWhat is your password? > ').strip()
+    gmail_info['PASSWORD'] = input('\nWhat is the password for that account? > ').strip()
 
-    gmail_info['RECIPIENTS'] = input('\nPlease enter email recipients (comma separated if more than one) > ').replace(' ', '').strip()
+    gmail_info['RECIPIENTS'] = input('\nPlease enter email recipients for bin notifications (comma separated if more than one) > ').replace(' ', '').strip()
 
     # writing these values to a .env file
     with open('.env', 'w') as e:
@@ -161,3 +161,21 @@ if not Path('.env').exists():
             )
     
     print('\nThanks for the info!')
+
+# finally, generating a .sh file that the user can package up and use in a cron job
+if not Path('binbot.sh').exists():
+    with open('binbot.sh', 'w') as s:
+        s.writelines(
+            [
+                f'{line}\n' for line in [
+                    '#!/bin/bash',
+                    f'cd {str(Path().resolve())}',
+                    '. venv/bin/activate',
+                    'python3 check-bins.py',
+                    'python3 daily-monitor.py',
+                    'sleep 5',
+                    'deactivate',
+                    'exit'
+                ]
+            ]
+        )
