@@ -4,7 +4,7 @@ check-bins.py:
 
 other jobs:
     ✔ script for registering yagmail credentials @done (14/03/2022, 21:21:27) - yagmail isn't working for some reason
-    ☐ write a bash script to run the check for new bins every week?
+    ✔ write a bash script to run the check for new bins every week? @done (15/03/2022, 22:05:50)
     ✔ figure out how to send emails the day before collection is due @done (14/03/2022, 17:40:45)
         - SOLVED: run the script every day, looking to see if collection is due the following day
 
@@ -13,6 +13,9 @@ sending emails:
 
 logging:
     ☐ Some form of logging system? @low 
+
+README:
+    ☐ Finish README and publish repo
     
 
 
