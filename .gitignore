@@ -6,6 +6,7 @@ address_details.json
 *_copy.py
 *_old.py
 bin_collection_data.json
+binbot.sh
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
