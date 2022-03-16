@@ -14,7 +14,7 @@ A friendly robot that'll email you what bins are being collected that week, if y
 git clone https://github.com/fredlarkins/hackney-bin-bot.git
 ```
 
-**2) Use the requirements.txt file to create a venv**  
+**2) Use the requirements.txt file to create a virtual environment**  
 ```
 cd /path/to/hackney-bin-bot-repo
 python3 -m venv venv
