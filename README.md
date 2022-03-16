@@ -36,7 +36,7 @@ This will run through the same flow that the [Waste Collection Checker tool](htt
 
 The other nitfy thing this will do is spit out a `binbot.sh` file that you can use to schedule the bin checker to run as a Cron Job.
 
-**5) Schedule the `binbot.sh` file as a Cron Job**
+**5) Schedule the `binbot.sh` file as a Cron Job**  
 Cron Jobs are recurring commands you can tell your computer to execute at specified intervals. In this case, I've got this running as a daily job on my Raspberry Pi. The script figures out whether your bins are due the following day, and will only email you if this is the case, telling you which bins are up for collection.
 
 To create a cron job, run:
