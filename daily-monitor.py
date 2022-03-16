@@ -92,6 +92,6 @@ Thanks from Hackney Bin Bot 🤖
     )
 
 else:
-    print('Nothing is due tomorrow.')
+    print('\nNo bins are due tomorrow.')
 
 
